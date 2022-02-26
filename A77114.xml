@@ -1,0 +1,995 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jus poli et fori or, God and the King. Judging for right against might. As it was delivered in a sermon before the honourable His Majesties judges of assize in the cathedrall church of Lincolne, Septem. 10. 1660. / By Edward Boteler, sometimes fellow of St. Mary Magdalen Colledge in Cambridge, and now rector of Wintringham in the county of Lincolne.</title>
+            <author>Boteler, Edward, d. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77114</idno>
+            <idno type="STC">Wing B3802</idno>
+            <idno type="STC">Thomason E1813_1</idno>
+            <idno type="STC">ESTC R209777</idno>
+            <idno type="EEBO-CITATION">99868639</idno>
+            <idno type="PROQUEST">99868639</idno>
+            <idno type="VID">170405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170405)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 226:E1813[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jus poli et fori or, God and the King. Judging for right against might. As it was delivered in a sermon before the honourable His Majesties judges of assize in the cathedrall church of Lincolne, Septem. 10. 1660. / By Edward Boteler, sometimes fellow of St. Mary Magdalen Colledge in Cambridge, and now rector of Wintringham in the county of Lincolne.</title>
+                  <author>Boteler, Edward, d. 1670.</author>
+               </titleStmt>
+               <extent>[6], 70 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Bedell, and T. Collins, at the Middle Temple gate in Fleetstreet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1660. Jan. 31"; the 1 in the date has been changed to a 0.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms LXXII, 4 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170405:1" rendition="simple:additions"/>
+            <p>JUS POLIET FORI OR, <hi>GOD</hi> and the <hi>KING.</hi> Judging For RIGHT Againſt MIGHT.</p>
+            <p>As it was delivered in a Ser<g ref="char:EOLhyphen"/>mon before the Honourable His Majeſties Judges of Aſſize in the Cathedrall Church of <hi>LINCOLNE,</hi> Septem. 10. 1660.</p>
+            <p>By <hi>Edward Boteler,</hi> ſometimes Fellow of St. <hi>Mary Magdalen</hi> Colledge in <hi>Cambridge,</hi> and now Rector of <hi>WINTRINGHAM</hi> in the County of <hi>LINCOLNE.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>Iſa. 28.5, 6.</bibl> In that day ſhall the Lord of Hoſts be for a crown of glory, and for a diadem of beauty unto the reſidue of his people.</p>
+               <p>And for a ſpirit of judgement to him that ſitteth in judgement, and for ſtrength to them that turne the battel to the gate.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Bedell,</hi> and <hi>T. Collins,</hi> at the Middle Temple gate in <hi>Fleetſtreet,</hi> 166<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170405:2"/>
+            <pb facs="tcp:170405:2"/>
+            <head>TO THE Right Worſhipfull, Sir <hi>WILLIAM TROLLOP</hi> Baronet, High Sheriff OF The County of <hi>Lincoln.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>D<g ref="char:V">Ʋ</g>ring the late Whirle<g ref="char:EOLhyphen"/>winde in Church and State (in which, He that could not hold his tongue, could not hold his peace) I ſtudied to Comment practically upon that Text of the Prophet;
+<note place="margin">Am. 5.13.</note> 
+               <hi>The prudent ſhall keep ſilence in that time, for it is
+<pb facs="tcp:170405:3"/>an evill time.</hi> Privacy was then a priviledge, nothing ſo ſafe as ſoli<g ref="char:EOLhyphen"/>tude, and I could not but hug my ſelf, and applaud my condition, in obſcu<g ref="char:EOLhyphen"/>rity. No tyes of Intereſt, no flatteries of the Times could draw me out of my receſſes, or court me to make a ſtep on that publique Theatre, where I per<g ref="char:EOLhyphen"/>ceived little acted, but what would put ingenuity to the bluſh, and make honeſty aſhamed: But now that by the goodneſſe of God, the clouds are ſcattered, our day cleares up, and we ſeeme to ſit under the ſmiles of Hea<g ref="char:EOLhyphen"/>ven, I have adventured abroad under the Conduct of your name, to ſalute our new-borne Peace, and bid that deſirable Stranger welcome into our more then wearied world, and this I have done in the great Congregati<g ref="char:EOLhyphen"/>on. Nor have I done yet, but that
+<pb facs="tcp:170405:3"/>you may ſee how my obedience ſtrives to be as large as your Commands, I have followed them from the Pulpit to the Preſſe. And though I thought theſe worthleſſe conceptions publique enough before, as having delivered them in the face of the Country: yet ſince your ſelfe and others, neither the leaſt, nor leaſt conſiderable and intelligent part of the Auditory, are pleaſed to thinke otherwiſe, I ſubmit what ever I thinke my ſelfe. They are now no longer mine, but yours, the Dedication makes them ſo, deſigne them your protection, they begg it, they need it. I heard ſome whiſper<g ref="char:EOLhyphen"/>ings, as if I were too tart, I value it not, errour must needs be the ſore, where truth makes the ſmart. I ſhall not ſo much as Epiſtle the Reader to be courteous, the candid and cleare
+<pb facs="tcp:170405:4"/>brow'd will be ſo, as for the tetricall and angry generation, let them go;</p>
+            <q>Rumpatur, ſi quis rumpitur, invidia.</q>
+            <closer>
+               <salute>I am Sir</salute> 
+               <signed>Your moſt humble &amp; moſt obliged Servant <hi>E. BOTELER.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:170405:4"/>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 72.4.</bibl>
+                  <p>He ſhall judge the poor of the people, he ſhall ſave the children of the nee<g ref="char:EOLhyphen"/>dy, and ſhall breake in pieces the Oppreſſour.</p>
+               </q>
+               <q>
+                  <bibl>In our other Tranſlation.</bibl>
+                  <p>He ſhall keep the ſimple folke by their right, defend the children of the poore, and pu<g ref="char:EOLhyphen"/>niſh the wrong doer.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is not long ſince we were in as ſad a caſe as the poor captive Jewes,
+<note place="margin">Pſal. 137.1, 2.</note> who ſate by the waters of <hi>Babylon,</hi> wee<g ref="char:EOLhyphen"/>ping to remember our ſometimes hap<g ref="char:EOLhyphen"/>py <hi>Zyon.</hi> Hanging our harps upon the willows, and being out of tune for a<g ref="char:EOLhyphen"/>ny ſong, unleſſe to deſcant upon our miſeries with the lamenting Prophet:
+<note place="margin">Lam. 2.1.</note> 
+               <hi>How hath the Lord covered the daughter of Zion with a cloud in his anger, and caſt downe from heaven unto the earth,
+<pb n="2" facs="tcp:170405:5"/>the beauty of Iſrael,</hi>
+               <note place="margin">Amos 4.9.</note> 
+               <hi>and remembred not his foot-ſtool in the day of his anger!</hi> And we are now as a fire-brand pluckt out of the burning: ſeaſonably pluckt out: For,
+<note place="margin">Iſa 1.9.</note> 
+               <hi>Except the Lord of hoſts had left unto us a very ſmall remnant, we ſhould have been as Sodome, and we ſhould have beene like unto Gomorrah:</hi> and the glory of this flouriſhing Church and Kingdom, had been like that of the materiall Temple at <hi>Hieruſalem,</hi> which fell from courting the clouds, to kiſſe the duſt.</p>
+            <p>So that when I recognize what we lately were, and take a view of what we now are; when I behold our capti<g ref="char:EOLhyphen"/>vity turned as the rivers in the South,
+<note place="margin">Pſ. 126.4. 1 K. 10.9.</note> fully, ſudde<g ref="char:cmbAbbrStroke">̄</g>ly, unexpectedly: The Lord delighting in the King,
+<note place="margin">Iſa. 1.26.</note> to ſet him on the throne of <hi>Iſrael: reſtoring our Judges as at the firſt, and our Counſellors as at the beginning.</hi>
+               <note place="margin">Jer. 30.21.</note> 
+               <hi>Our Nobles being of themſelves, and our Governour proceeding from the midſt of us.</hi>
+               <note place="margin">Num. 16.2.</note> 
+               <hi>Our Tribunals and ſeats of ju<g ref="char:EOLhyphen"/>ſtice furniſhed with Princes of the Aſſem<g ref="char:EOLhyphen"/>bly, famous in their congregation, men of renown:</hi>
+               <note place="margin">Iſa. 30.20.</note> Our Teachers no more remo<g ref="char:EOLhyphen"/>ved into corners, but our eyes ſeeing our Teachers. When I conſider all theſe, me thinks I cannot keep my
+<pb n="3" facs="tcp:170405:5"/>Meditations from running thoſe num<g ref="char:EOLhyphen"/>bers of <hi>David:</hi> To climbe the heavens,
+<note place="margin">Pſal. 148.1, 2, 3, &amp;c.</note> and call in the glorious Inhabitants, and powerfull Hoſts thereof, the An<g ref="char:EOLhyphen"/>gels, Sun, Moon, and Stars of light: To range the Ayr, and ſummon thence the Fire and Hayle, Snow, Vapours, and ſtormy winds: To dive the A<g ref="char:EOLhyphen"/>byſſe of waters, and bring up the Dra<g ref="char:EOLhyphen"/>gons and all Deeps: To traverſe the Earth, and gather the mountains, and all hills, fruitfull trees, and all Cedars, Kings of the Earth, and all people, Princes and all Judges of the Earth: both young men &amp; maidens, old men and children, that all may beare a part in the rejoycings of this day, and joyn in praiſes to the God of <hi>Jeſhurun,</hi>
+               <note place="margin">Deut. 33.26</note> who rideth upon the Heavens in our help: who giveth ſalvation unto Kings,
+<note place="margin">Pſ. 144.10.</note> who delivereth <hi>David</hi> his ſervant from the hurtful ſword,
+<note place="margin">Pſ. 78.71.</note> that he may feed <hi>Jacob</hi> his people, and <hi>Iſrael</hi> his inheritance.</p>
+            <p>
+               <hi>That he may judge the poore of the people, that he may ſave the children of the needy, and breake in pieces the Oppreſſour.</hi>
+            </p>
+            <p>The Pſalme, like the Times, pre<g ref="char:EOLhyphen"/>ſents us with a moſt pleaſant, and de<g ref="char:EOLhyphen"/>licious proſpect, full of bleſſings both:
+<pb n="2" facs="tcp:170405:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:170405:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:170405:7"/>what's written in the one, you may read in the other. The Travailer, who in his obſervations of ſeverall Countreys, reports he found in one <hi>Pulchrum Regem,</hi> and in another <hi>Pulchru<g ref="char:cmbAbbrStroke">̄</g> Regnum,</hi> might here ſee both, a graci<g ref="char:EOLhyphen"/>ous King, and a flouriſhing Kingdom.</p>
+            <p>If you take a view of the Pſalm, you may finde,</p>
+            <p n="1">1. God pray'd to, to bleſſe the King, <hi>v.</hi> 1. <hi>Give the King thy judgements, O God,</hi> &amp;c.</p>
+            <p n="2">2 The King made by God a bleſſing to the people: <hi>He ſhall judge the people, &amp;c.</hi> to <hi>v.</hi> 18.</p>
+            <p n="3">3 The King and people bleſſing God, in the following verſes.</p>
+            <p>I would not ſtumble at the threſh<g ref="char:EOLhyphen"/>old, by engaging in a quarrell about the Title, which ſome have left worſe then they found it, perplexing it with more, whileſt they pretend to free it from ſome difficulty.</p>
+            <p>A Pſalme for <hi>Solomon.</hi>
+               <note place="margin">
+                  <hi>Lovinus</hi> in loc.</note> Not for <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> the ſon of <hi>David</hi> &amp; <hi>Bathſheba</hi> ſaith one; but for Chriſt, who is here called <hi>Solomon,</hi> as he is called <hi>David</hi> elſe<g ref="char:EOLhyphen"/>where: <hi>The children of Iſrael ſhall return and ſeeke the Lord their God,</hi>
+               <note place="margin">Hoſca 3.5.</note> 
+               <hi>and David their King.</hi>
+            </p>
+            <pb n="5" facs="tcp:170405:7"/>
+            <p>And therefore it is,
+<note place="margin">Genebrard.</note> that he ap<g ref="char:EOLhyphen"/>proves of another, making it a patro<g ref="char:EOLhyphen"/>nymie. <hi>In Solomonidem:</hi> for the Son, the Nephew, one ſprung from <hi>Solomon:</hi> or is willing to allow it an Appellative, ſpeaking no more then Peace-maker, and ſo is eminently the due of the Lord Jeſus Chriſt,
+<note place="margin">Heb. 7.2.</note> who is King of <hi>Sa<g ref="char:EOLhyphen"/>lem,</hi> that is, King of Peace.</p>
+            <p>But I cannot liſt under this opinion, to cut <hi>Solomon</hi> quite out of this Pſalm, to which the Inſcription gives him ſo clear a Title.</p>
+            <p>I know, a greater then <hi>Solomon</hi> is here, but yet <hi>Solomon</hi> is here too; <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> in the figure, and Chriſt in the per<g ref="char:EOLhyphen"/>fection of Kingly adminiſtration. <hi>So<g ref="char:EOLhyphen"/>lomon's</hi> kingdome ſhall be a mapp of Chriſt's. And as <hi>David</hi> was a type of him in his encounters with, and tri<g ref="char:EOLhyphen"/>umph over the Churches enemies: ſo ſhall <hi>Solomon</hi> be in the calme, and hap<g ref="char:EOLhyphen"/>py dayes of the Church, when Chriſt ſhall give his beloved reſt, and finde a repoſe for the daughter of <hi>Zion,</hi> ma<g ref="char:EOLhyphen"/>king peace within her walls, and plen<g ref="char:EOLhyphen"/>teouſneſs within her palaces. In ſhort, thoſe bleſſings that flow in with the rule of Chriſt, ſhall not be wanting to
+<pb n="6" facs="tcp:170405:8"/>the Reigne of <hi>Solomon,</hi> onely he ſhall governe by, and compoſe to, this mo<g ref="char:EOLhyphen"/>dell.</p>
+            <p>
+               <hi>He ſhall judge the poore of the People,</hi> &amp;c.</p>
+            <p>The Text ſeems to have ſome little dependance upon the firſt verſe, wee'l quit it of that, and then we ſhall come clear to it. The threed of connexion runs through both it, and the two for<g ref="char:EOLhyphen"/>mer verſes thus</p>
+            <p>
+               <hi>Give the King thy judgements O God,</hi> &amp;c. <hi>v.</hi> 1.</p>
+            <p>And then, <hi>He ſhall judge thy people in,</hi> &amp;c. <hi>v.</hi> 2.</p>
+            <p>And, <hi>The mountaines ſhall bring peace to,</hi> &amp;c. <hi>v.</hi> 3.</p>
+            <p>And, <hi>He ſhall judge the poore of the,</hi> &amp;c. in the Text. The connexion then is plain.</p>
+            <p>The King prayes heartily: <hi>Give she King thy judgements, O Lord,</hi> &amp;c.</p>
+            <p>The Kings ſon proves accordingly: <hi>He ſhall judge the poor of the people,</hi> &amp;c.</p>
+            <p>The Kings Son, and the Kings Sub<g ref="char:EOLhyphen"/>jects and all fare the better for the prayers of pious Kings. We are the happy witneſſes of this truth this day: I am very confident, the peace, the
+<pb n="7" facs="tcp:170405:8"/>plenty, the proſperity, the rich con<g ref="char:EOLhyphen"/>fluence of mercies we are now entring upon, and do in ſome good meaſure enjoy, are the ſweet fruits of his late Majeſties prayers. He ſowed in teares what we are now reaping in joy.</p>
+            <p>That <hi>Princely Martyr</hi> was excellent at thoſe ſpirituall wreſtlings, ſuch an<g ref="char:EOLhyphen"/>other devout duelliſt as <hi>Jacob,</hi> his faith made him more then man, a Match for the Angel.
+<note place="margin">Hoſ. 12.4.</note> And though his Treaties on Earth were ſadly ſucceſſeſſe, yet his entreaties with Heaven were of invin<g ref="char:EOLhyphen"/>cible ſtrength and urgency; as a Prince he had power with God,
+<note place="margin">Gen. 32.28.</note> and prevail<g ref="char:EOLhyphen"/>ed. God hath heard the Kings prayer for the Kings Son, and given him ſuch a returne of Judgement, and Righte<g ref="char:EOLhyphen"/>ouſneſſe, that we may promiſe our ſelves in the confidence of the Text:</p>
+            <p>
+               <hi>He ſhall judge the poore of the people, &amp;c.</hi>
+            </p>
+            <p>The Pſalme being <hi>Depoſitum Davi<g ref="char:EOLhyphen"/>dis,</hi> (as it is called becauſe of the laſt words of it) <hi>Davids</hi> Teſtament, the Text is one of thoſe Legacies which he bequeaths to <hi>Solomon,</hi> and in him to thoſe happy people which ſhould live in the peaceable &amp; plenteous dayes of
+<pb n="8" facs="tcp:170405:9"/>his flouriſhing Reigne, looking alſo through the Perſpective of Faith, at their incomparable condition, which ſhould ſee the moſt deſirable dayes of the Son of Man, and follow the con<g ref="char:EOLhyphen"/>duct of the Prince of Peace in the glo<g ref="char:EOLhyphen"/>rious adminiſtration of his King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Wherein <hi>David,</hi> (as elſe-where) ſings of Mercy and Judgement.</p>
+            <p>Mercy: <hi>He ſhall judge the poore of the people, he ſhall ſave the children of the nee<g ref="char:EOLhyphen"/>dy.</hi>
+            </p>
+            <p>Judgement: <hi>And ſhall break in pieces the Oppreſſour.</hi>
+            </p>
+            <p>Or if you pleaſe,</p>
+            <p>Here is all diſtributive juſtice ſum'd up, and compriſed in two particulars.</p>
+            <p n="1">1. Defenſive juſtice: (let me ſo call it) <hi>He ſhall judge the poore of the people;</hi> that's one piece of it, and the ſecond is like unto it: <hi>He ſhall ſave the children of the needy.</hi>
+            </p>
+            <p n="2">2. Offenſive juſtice: <hi>and ſhall breake in pieces the Oppreſsour.</hi>
+            </p>
+            <p>Each of theſe hath an <hi>Agent, Act, Ob<g ref="char:EOLhyphen"/>ject.</hi>
+            </p>
+            <p>The <hi>Agent; He:</hi> the ſame in all.</p>
+            <p>The <hi>Act;</hi> diverſe, as it meets with
+<pb n="9" facs="tcp:170405:9"/>an object: <hi>judge, ſave, breake in pieces.</hi>
+            </p>
+            <p>The <hi>Object</hi> diverſifying this <hi>Act; The poore of the people: the children of the nee<g ref="char:EOLhyphen"/>dy: the Oppreſſour.</hi>
+            </p>
+            <p>
+               <hi>He ſhall judge the poor of,</hi> &amp;c.</p>
+            <div type="part">
+               <p>I begin with the <hi>Agent,</hi> his firſt <hi>Act</hi> and <hi>Object; He ſhall judge the poore of the people.</hi>
+               </p>
+               <p>
+                  <hi>He:</hi> But who is that? is he inveſted with Authority? is he qualified for ſo great a worke?</p>
+               <p>Is he commiſſioned firſt? that's a queſtion would be asked: We have had many invaders of late; ſome have taken <hi>Aarons</hi> honour upon them,
+<note place="margin">Heb. 5.4.</note> and never were called of God, as <hi>Aaron</hi> was. Others have climbed <hi>Moſes</hi> his Chaire by ſtrange ſteps of their owne laying, who ſhall <hi>give an account to him that is ready to judge the quicke and the dead,</hi>
+                  <note place="margin">1 Pet. 4.5.</note> when they ſhall be asked the <hi>He<g ref="char:EOLhyphen"/>brews</hi> queſtion to <hi>Moſes;</hi>
+                  <note place="margin">Exo. 2.14</note> 
+                  <hi>Quis conſtituit te Principem &amp; judicem? Who made thee a Prince and a Judge?</hi>
+               </p>
+               <p>And is he ſufficient? let that be aſ<g ref="char:EOLhyphen"/>ked too. For we have had ſome whoſe names and places have been of the greater print, and themſelves of little or no letters. How many have poſſeſ<g ref="char:EOLhyphen"/>ſed
+<pb n="10" facs="tcp:170405:10"/>themſelves of <hi>Gamaliel's</hi> ſeat, that never did, nor were ever worthy to ſit at his feet? of whom we may ſay as St. <hi>Paul</hi> of the Gentiles in another caſe; That <hi>having not the Law,</hi>
+                  <note place="margin">Rom. 2.14.</note> 
+                  <hi>they were a law unto themſelves,</hi> I and to others too, who have cauſe enough to complaine they feel it yet. How many have been ſet on high, like the Idols of the Hea<g ref="char:EOLhyphen"/>then,
+<note place="margin">Pſal. 115.5, 6, 7.</note> of whom the Pſalmiſt, <hi>They have eyes and ſea not, eares and heare not?</hi> it had been well if they had been like them in that other defect too, that they had <hi>hands and handled not:</hi> But they were too active with them it is to be thought, and that makes ſo many poore of the people at this day. And hence it was that Judgement, like <hi>Jor<g ref="char:EOLhyphen"/>dan's</hi> ſtreams, was turned backward, or as the Prophet complains;
+<note place="margin">Am. 5.7:</note> 
+                  <hi>Judge<g ref="char:EOLhyphen"/>ment was turned into wormwood, &amp; Righ<g ref="char:EOLhyphen"/>teouſneſſe was left off in the earth.</hi>
+               </p>
+               <p>Oh! but the <hi>He</hi> in the Text, is infi<g ref="char:EOLhyphen"/>nitely furniſhed for his employment:
+<note place="margin">Col. 2.3.</note> 
+                  <hi>having all the treaſures of wiſdome and knowledge bid in him,</hi> knowing the Law exactly, even as he kept it in every ti<g ref="char:EOLhyphen"/>tle of it,
+<note place="margin">Jam. 4.12.</note> being that one <hi>Law-giver, who is able to ſave, and to deſtroy.</hi>
+               </p>
+               <pb n="11" facs="tcp:170405:10"/>
+               <p>He is a Judge that ſees without evi<g ref="char:EOLhyphen"/>dence, and knows without witneſs.</p>
+               <p>He that can read the dark letters of the heart, as if they were written with a beam of the Sun upon a wall of chry<g ref="char:EOLhyphen"/>ſtall.</p>
+               <p>He that can diſcerne a falſe cauſe through a faire varniſh.</p>
+               <p>He that <hi>ſhall bring every worke into judgement, with every ſecret thing,</hi>
+                  <note place="margin">Eccl. 12.14.</note> 
+                  <hi>whe<g ref="char:EOLhyphen"/>ther it be good, or whether it be evill. He ſhall judge the poor of the people,</hi> &amp;c.</p>
+               <p>And he is commiſſioned too, in an<g ref="char:EOLhyphen"/>ſwer to the other querie. He brings his authority with him, for on his ve<g ref="char:EOLhyphen"/>ſture and on his thigh <hi>he hath a name written, King of Kings, &amp; Lord of Lords.</hi>
+                  <note place="margin">Rev. 19.16.</note>
+                  <note place="margin">Iſa. 9.6.</note> It is He whoſe name is called <hi>Wonder<g ref="char:EOLhyphen"/>full, Counſellor, the mighty God, the ever<g ref="char:EOLhyphen"/>laſting Father, the Prince of Peace.</hi>
+                  <note place="margin">Lu. 1.32, 33.</note> It is <hi>He who is great, and called the ſon of the Higheſt, to whom the Lord God hath gi<g ref="char:EOLhyphen"/>ven the throne of his father David, and he ſhall reigne over the houſe of Jacob for ever, and of his kingdome there ſhall be no end.</hi>
+                  <note place="margin">Pſal. 19.6.</note> It is <hi>He whoſe going forth (like that of the ſun) is from the end of Heaven, and his circuit to the ends of it.</hi>
+                  <note place="margin">Mat. 24.30 Chap. 25.31.</note> It is <hi>He who ſhall come in the clouds of Heaven with power
+<pb n="12" facs="tcp:170405:11"/>and great glory, and all the holy Angels with him.</hi>
+                  <note place="margin">Rev. 20.9.</note> It is <hi>He who ſhall ſit on the great white throne, from whoſe face the Earth and the Heaven ſhall flee away, and there ſhall be no place found for them.</hi> It is <hi>He before whom the dead, ſmall &amp; great ſhall ſtand,</hi>
+                  <note place="margin">Rev. 20.12</note> 
+                  <hi>and be judged out of thoſe things which are written in the books ac<g ref="char:EOLhyphen"/>cording to their works.</hi>
+               </p>
+               <p>It is <hi>He to whom the Father hath given authority to execute judgement,</hi>
+                  <note place="margin">John 5.27.</note> 
+                  <hi>becauſe he is the ſon of man.</hi> Jeſus Chriſt as Medi<g ref="char:EOLhyphen"/>ator hath had the Scepter and rule in his hands ever ſince the fall, and the laſt and great act of his Regall power ſhall be to judge the world, to ſettle the eternall and unalterable eſtates of men and Angels,
+<note place="margin">1 Cor. 15.24.</note> and then <hi>he ſhall deli<g ref="char:EOLhyphen"/>ver up the Kingdome to God, even the Fa<g ref="char:EOLhyphen"/>ther, that God may be all in all.</hi>
+               </p>
+               <p>This is He, the firſt He, He in the Antitype, and by way of Eminency. <hi>He ſhall judge the poor of the people,</hi> &amp;c.</p>
+               <p>But leſt ſome of St.
+<note place="margin">2 Pet. 3.4.</note> 
+                  <hi>Peters</hi> ſcoffers ſhould queſtion this Judge, and ſay, <hi>Where is the promiſe of his coming?</hi> Or ſome deſperate daring wretch ſhould argue himſelfe into folly from the di<g ref="char:EOLhyphen"/>ſtance of the day;
+<note place="margin">Eccl 8 11.</note> and <hi>becauſe ſentence
+<pb n="13" facs="tcp:170405:11"/>againſt an evill worke is not executed ſpee<g ref="char:EOLhyphen"/>dily, his heart ſhould be fully ſet in him to do evil.</hi>
+               </p>
+               <p>Here is an He in the Type too, ano<g ref="char:EOLhyphen"/>ther He, deputed, authorized, com<g ref="char:EOLhyphen"/>miſſioned from Heaven, and in truſted with the management of judgement till that day, and
+<q>He alſo ſhall judge the poore of the peo<g ref="char:EOLhyphen"/>ple.</q>
+               </p>
+               <p>And if you aske who he is, though the matchleſs iniquity of the late times interdicted all mention of him with that honour due unto his Name, for<g ref="char:EOLhyphen"/>cing men either to cancell or conceale it, and pouring contempt upon it: yet bleſſed be God, we may now ſpeake out! this He is the King. <hi>He ſhall judge the,</hi> &amp;c.</p>
+               <p>Judgements is the King's, He hath it from good hands, he comes fairely and freely by it. <hi>Give the King thy judg<g ref="char:EOLhyphen"/>ments O Lord!</hi>
+               </p>
+               <p>The power of judging is in the King, is from him, ſo St. <hi>Paul</hi> tells us.
+<note place="margin">Acts 25: 10.</note> 
+                  <hi>I ſtand at Caeſars judgement ſeat, where I ought to be judged.</hi> And <hi>Abſalom,</hi> as great a Rebell as he was, grants this.
+<note place="margin">2 Sam. 15: 3.</note> 
+                  <hi>Thy mat<g ref="char:EOLhyphen"/>ters are good, but there is none deputed of
+<pb n="14" facs="tcp:170405:12"/>the King to heare thee.</hi> The hearing Cauſes is proper to the King, and whom he ſhall depute. It is ſaid of <hi>Sa<g ref="char:EOLhyphen"/>muel,</hi> when he held the Kingly power ingroſſed in the Judiciary, that <hi>He went from yeare to yeare in circuit to Bethel,</hi>
+                  <note place="margin">1 Sam: 7.16.</note> 
+                  <hi>and Gilgal, and Miſpeh, and judged Iſrael in all thoſe places.</hi>
+               </p>
+               <p>But becauſe as <hi>Jethro</hi> told <hi>Moſes,</hi>
+                  <note place="margin">Exod. 18.18.</note> 
+                  <hi>ul<g ref="char:EOLhyphen"/>tra vires tuas eſt negotium,</hi> the thing is too heavy for one.
+<note place="margin">Deut. 1.12</note> And <hi>Moſes</hi> himſelf complaines, <hi>Non valeo ſolus; how can I my ſelfe alone bear your cumbrance, and your burden, &amp; your ſtrife?</hi> If you pleaſe, wee'l follow that Model of <hi>Jethro,</hi> and take in wiſe and underſtanding men, known in our Tribes, that they may take off part of the burden by ſub<g ref="char:EOLhyphen"/>joyning with the <hi>He</hi> in the Text, and helping to judge the poor of the peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>And the He will be, He the King, and He the Judge. The King in per<g ref="char:EOLhyphen"/>ſon, and the King in proxy. The King in himſelfe, and the King in his ſub<g ref="char:EOLhyphen"/>ſtitute. He that hath the primitive, and he that hath the derivative pow<g ref="char:EOLhyphen"/>er. The ſupreme and the ſubordi<g ref="char:EOLhyphen"/>nate Magiſtrate, the Co-Aſſeſſor,
+<pb n="15" facs="tcp:170405:12"/>Counſellor, every one that is commiſ<g ref="char:EOLhyphen"/>ſioned to act in matters of Juſtice, He is the man, it is <hi>He ſhall judge the poore of the people.</hi>
+               </p>
+               <p>And that for the Agent, <hi>He,</hi> of whom we ſhall ſpeak no more ſingle, but as he falls in with the ſeverall <hi>Acts</hi> and <hi>Objects,</hi> to which we now proceed, be<g ref="char:EOLhyphen"/>ginning with the</p>
+            </div>
+            <div type="part">
+               <p>Firſt, Judge. <hi>He ſhall judge.</hi>
+               </p>
+               <p>And here we ſhall not make a ſtirre about judging. To judge in its higheſt ſignification, imports to Rule, to exerciſe the ſupreme power, to hold the reines of Government in the hand, and ſtit at the Stern. To command in chiefe, and give Laws.</p>
+               <q>
+                  <l>—Victor<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> volentes</l>
+                  <l>Per populos, dat jura—</l>
+               </q>
+               <p>So the Chieftaines in the polity and Common-wealth of <hi>Iſrael,</hi> in the non<g ref="char:EOLhyphen"/>age of Kings, or in the <hi>inter-regnum</hi> rather,
+<note place="margin">Deu. 33.5.</note> betwixt <hi>Moſes</hi> who was King in <hi>Jeſhurun,</hi> and <hi>Saul</hi> the firſt annoint<g ref="char:EOLhyphen"/>ed, are ſaid in their ſeveral Generati<g ref="char:EOLhyphen"/>ons to have governed <hi>Iſrael.</hi>
+               </p>
+               <pb n="16" facs="tcp:170405:13"/>
+               <p>But we ſhall wave this and other ſignifications leſſe of kinne to our pur<g ref="char:EOLhyphen"/>poſe, and ſpeak of ſuch onely as may goe along with our ſenſe, and be of concernment to us.</p>
+               <p>The whole buſineſs of judging takes up in theſe two, <hi>Oppreſſos liberare; Op<g ref="char:EOLhyphen"/>preſſores coercere;</hi> to ſupport the poor, and oppreſſe the proud, that's judg<g ref="char:EOLhyphen"/>ing.</p>
+               <p>Or thus, there is <hi>judicium comproba<g ref="char:EOLhyphen"/>tionis, &amp; condemnationis,</hi> a judging for, and againſt.</p>
+               <p n="1">1. There is a judgement of com<g ref="char:EOLhyphen"/>probation, a judging for, in the ſafer ſenſe, a laying out of intruſted power for the behoofe of thoſe that want it. <hi>Judicare aliquem,</hi>
+                  <note place="margin">
+                     <hi>Ribera</hi> in Hoſ. a p. 3. n. 95.</note> 
+                  <hi>eſt ſententiam pro illo ferre.</hi> To judge a man is to give ſen<g ref="char:EOLhyphen"/>tence for him, to appeare for his reſ<g ref="char:EOLhyphen"/>cue.
+<note place="margin">Iſa. 1.17.</note> Or let the Prophet engliſh it: <hi>Seeke judgement, relieve the oppreſſed, judge the fatherleſſe, plead for the widow.</hi> This is a judging for, and is ſome<g ref="char:EOLhyphen"/>times rendred a delivering: As <hi>David</hi> in his compurgatory ſpeech, and ſelfe-vindication againſt the cruel, cauſeleſs, and unhandſome perſecution of <hi>Saul. The Lord be judge,</hi>
+                  <note place="margin">1 Sam. 24: 15.</note> 
+                  <hi>and judge between me
+<pb n="17" facs="tcp:170405:13"/>and thee, and ſee and plead my cauſe, and deliver me out of thine hand.</hi>
+               </p>
+               <p>They that are skilfull in the left-handed language,
+<note place="margin">
+                     <hi>Plurimi ln bonam par<g ref="char:EOLhyphen"/>te interpre<g ref="char:EOLhyphen"/>tantur judi<g ref="char:EOLhyphen"/>candi voca<g ref="char:EOLhyphen"/>bulum ut ſit defendere ac tueri de<g ref="char:EOLhyphen"/>ſtitutos o<g ref="char:EOLhyphen"/>piſque indi<g ref="char:EOLhyphen"/>gentes.</hi> Lovin. in loc.</note> render it indiffe<g ref="char:EOLhyphen"/>rently, judge, or deliver, or by judging deliver. And therefore what is here <hi>judge,</hi> in the other Tranſlation we have <hi>keepe,</hi> or <hi>preſerve. He ſhall keep the ſimple folke by their right:</hi> And the fol<g ref="char:EOLhyphen"/>lowing words are exegeticall, or ex<g ref="char:EOLhyphen"/>poſitory, tell us what it is to judge, <hi>he ſhall ſave.</hi> To ſave, to keep, to deli<g ref="char:EOLhyphen"/>ver, this is to judge, to judge for, to judge in the firſt ſenſe. <hi>Oppreſſos libe<g ref="char:EOLhyphen"/>rare, He ſhall judge the poore of the peo<g ref="char:EOLhyphen"/>ple.</hi>
+               </p>
+               <p n="2">2. There is a judging againſt, and in the ſeverer ſenſe, and that is all one with condemning:
+<note place="margin">Heb. 13.4.</note> 
+                  <hi>Whoremongers and Adulterers God will judge:</hi> that is in plaine Engliſh, condemne. So St. <hi>Chryſoſtome</hi> and other Fathers under<g ref="char:EOLhyphen"/>ſtand that of the Apoſtle: <hi>Know you not that we ſhall judge Angels?</hi>
+                  <note place="margin">1 Cor. 6.3.</note> that is evill Angels, whom we ſhall as glorious Co-aſſeſſors with the righteous Judge, ar<g ref="char:EOLhyphen"/>raign, ſentence, and damne to their miſerable eternity. <hi>Quae res Daemoni<g ref="char:EOLhyphen"/>bus ſuperbiſſimis moleſtiſſima erit poena,</hi>
+                  <pb n="18" facs="tcp:170405:14"/>ſayes the learned <hi>Suarez.</hi> It will be a cutting, tearing torment to the proud Devils to ſee the victorious inſultings of the Saints, that they, of whom they have been the accuſers, ſhall now be their Judges, and ſit upon their Con<g ref="char:EOLhyphen"/>demnation: and this is judging in the ſecond ſenſe, to judge againſt; <hi>Oppreſ<g ref="char:EOLhyphen"/>ſores coercere, To breake in pieces the Op<g ref="char:EOLhyphen"/>preſſour.</hi>
+               </p>
+               <p>So that theſe two ſorts of judging, ſute with the two ſorts of men in the Text.</p>
+               <p>Here is the judgement of compro<g ref="char:EOLhyphen"/>bation, of deliverance, of ſalvation, and that's for the poore of the people, and children of the needy. And</p>
+               <p>Here is the judgement of Condem<g ref="char:EOLhyphen"/>nation, that's for the wrong doer, the Oppreſſour. <hi>And ſhall break in pieces the Oppreſſour.</hi>
+               </p>
+               <p>And that both theſe judgings may be regular and right, they muſt be made up of theſe three principall Ingredi<g ref="char:EOLhyphen"/>ents.</p>
+               <p>The Judge muſt Examine, Diſcern, Execute.</p>
+               <p n="1">1. The Judge muſt examine; which is ſo neceſſary, that without it he can<g ref="char:EOLhyphen"/>not
+<pb n="19" facs="tcp:170405:14"/>be a Judge. <hi>Qui ſtatuit aliquid parte inauditâ alterâ, aequum licet ſtatuerit,</hi>
+                  <note place="margin">Seneca.</note> 
+                  <hi>ipſe hand aequus fuerit.</hi> To do right without hearing, is to do wrong. What an in<g ref="char:EOLhyphen"/>gratefull Traytor was <hi>Mephiboſheth</hi> whileſt <hi>Zibah's</hi> ſtory was told onely?
+<note place="margin">2 Sam. 16.3.</note> But let him have a hearing, and how faithfull was he? his words are the ve<g ref="char:EOLhyphen"/>ry breath of Loyalty: <hi>Let him take all,</hi>
+                  <note place="margin">Chap. 19: 30.</note> 
+                  <hi>foraſmuch as my Lord the King is come a<g ref="char:EOLhyphen"/>gaine in peace into his owne houſe.</hi>
+                  <note place="margin">
+                     <hi>Lud. de vi<g ref="char:EOLhyphen"/>ta, Chriſti. p.</hi> 1. <hi>c.</hi> 83. <hi>n.</hi> 2. John 8.</note> 
+                  <hi>Judex igitur qui audit accuſantes, non debet ſta<g ref="char:EOLhyphen"/>tim ſententiam dare, ſed diſcutere,</hi> ſayes <hi>Ludolphus</hi> upon our Saviour's writing on the ground at the accuſation of the woman for adultery. The Judge is to take diſcuſſion in his way to determi<g ref="char:EOLhyphen"/>nation. The Judge of all the Earth hath cut us out this method in his own proceedings in the caſe of <hi>Sodome,</hi> who though he ſees the moſt ſecret prevari<g ref="char:EOLhyphen"/>cations of the heart, the very firſt ten<g ref="char:EOLhyphen"/>dencies to ſinne; and ſo ſeeing thoſe monſters in their conceptions cannot but know them in their growth and height: And though thoſe wretches were both Accuſers and Witneſſes, and gave in a Declaration againſt themſelves (inſomuch that impudent
+<pb n="20" facs="tcp:170405:15"/>ſinners are after ſaid to declare their ſins as <hi>Sodome) Yet,</hi>
+                  <note place="margin">Iſa. 3.9.</note> 
+                  <hi>I will goe downe, ſaith God,</hi>
+                  <note place="margin">Gen. 18.21</note> 
+                  <hi>and ſee whether they have done altogether according to the cry of it, which is come unto me; and if not I will know.</hi>
+               </p>
+               <p>
+                  <hi>Nicodemus</hi> gave check to the whole force and fury of the chief Prieſts and Phariſees againſt our Saviour, with his <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>doth our Law judge any man before it heare him?</hi>
+                  <note place="margin">John 7.51.</note> And well had it been if ſome had had either the courage, or the conſcience, to have ſaid as much for our Law. We all know who complained ſadly that he could not be heard. But the juſt and righteous God hath heard him, and now he is making inquiſition for blood:
+<note place="margin">Pſal. 9.12.</note> 
+                  <hi>He remembreth him, he forgetteth not the cry of the humble.</hi> But I would touch that ſore gently. To examine, that's the firſt ingredient in judging.</p>
+               <p n="2">2. The Judge muſt diſcerne, ſee in<g ref="char:EOLhyphen"/>to the ſubſtance, as well as heare the ſound of the Cauſe. Though he muſt have no eye for perſons, yet he ſhould be all eye for Cauſes, that he may look through all thoſe Tinctures, and com<g ref="char:EOLhyphen"/>plexions which are laid on with ſo much art upon the face of falſhood.
+<pb n="21" facs="tcp:170405:15"/>It was Saint <hi>Pauls</hi> happineſſe, that he might make his defence before <hi>Agrip<g ref="char:EOLhyphen"/>pa,</hi>
+                  <note place="margin">Acts 26.3.</note> whom he knew expert in all cu<g ref="char:EOLhyphen"/>ſtomes and queſtions which were a<g ref="char:EOLhyphen"/>mong the Jews. When poore Truth comes to the Bar, aſſaulted by all the powers of wit, and art, perplexed with difficulties, and doubts, and intrica<g ref="char:EOLhyphen"/>cies, then well fare a ſagacious Judge that can expedite her, and ſet her free.</p>
+               <p>
+                  <hi>The word of my Lord the King ſhall now be comfortable,</hi>
+                  <note place="margin">1 Sam: 14.17.</note> (ſaith the woman of <hi>Te<g ref="char:EOLhyphen"/>koah) for as an Angell of God, ſo is my Lord the King to diſcerne good and bad.</hi> It is no ſmall comfort to a People, when their King, and the Kings Mini<g ref="char:EOLhyphen"/>ſters are terreſtiall. Angels for their knowledge and intuition.
+<note place="margin">1 K. 10.9.</note> 
+                  <hi>Bleſſed be the Lord his God, which delighteth in the King to ſet him on the throne of Iſrael:</hi> becauſe the Lord loved <hi>Iſrael</hi> for ever, therefore hath he made him King to do judgement and juſtice. And bleſ<g ref="char:EOLhyphen"/>ſed be God for a more knowing and learned Magiſtracy, that the Judges of the Earth are more inſtructed then formerly, never more need of them. Time runs low, the very dregs and all
+<pb n="22" facs="tcp:170405:16"/>come, Impoſtors, Hypocrites, Pre<g ref="char:EOLhyphen"/>tenders, theſe over-run us; ſagacious Judges are neceſſary, are ſeaſonable. To diſcern, that's the Judges ſecond ingredient.</p>
+               <p n="3">3. The laſt but not the leaſt is Exe<g ref="char:EOLhyphen"/>cution. The <hi>Scire juſtitiam,</hi> we have ſpoken of, diſcerning, knowing Ju<g ref="char:EOLhyphen"/>ſtice, that's ſomething, but that's not enough; no nor <hi>Diligere juſtitiam</hi> nei<g ref="char:EOLhyphen"/>ther, which goes further, to love ju<g ref="char:EOLhyphen"/>ſtice, ſo muſt every one; Nor doth <hi>Quaerere juſtitiam</hi> to ſeek juſtice, carry it high enough, for the Jury muſt do ſo as well as the Judge; but to execute it, that, all that is his charge. Execution, though ſometimes the death of the Of<g ref="char:EOLhyphen"/>fender, is always the life of the Law. When we read of Idolatry, Rape, and other wilde exorbitances in the book of <hi>Judges,</hi> the holy Ghoſt, that we might not miſſe the cauſe of ſuch miſ<g ref="char:EOLhyphen"/>demeanours,
+<note place="margin">Judg. 18.1. &amp; Ch. 19.1. &amp; Chap. 21.25.</note> gives us it no leſſe then three times, <hi>non erat Rex, In thoſe dayes there was no King in Iſrael,</hi> none to in<g ref="char:EOLhyphen"/>vigorate and put life into the Lawes, all was either dead or dormant, they had no head to diſcerne, no hand to execute juſtice, <hi>there was no King in Iſ<g ref="char:EOLhyphen"/>rael.</hi>
+               </p>
+               <pb n="23" facs="tcp:170405:16"/>
+               <p>Execution in a Judge is like Elocu<g ref="char:EOLhyphen"/>tion in an Oratour, it is <hi>primu<g ref="char:cmbAbbrStroke">̄</g>, ſecundum, ultimum,</hi> it is <hi>all in all.</hi>
+               </p>
+               <p>Travailers tell us of a law in <hi>Rhodes,</hi> that none ſhould ſhave, and yet obſer<g ref="char:EOLhyphen"/>ved, that none, or few in the Iſle were unſhaven: It was <hi>vox &amp; praeterea nihil,</hi> a Law talked of, but was nothing, for want of execution. And is not our I<g ref="char:EOLhyphen"/>ſland a tranſcript of that? have we not good lawes againſt ſwearing, drinking, debauchery? and yet where do they abound more? The one is counted the Gallantry, the other the Civility of the Times: ſo that prophaneſſe growes daring and braſs-brow'd, and out faceth the Law it ſelfe, becauſe Magiſtrates do not countenance and abett it, but <hi>Gallio</hi> like,
+<note place="margin">Act. 18.17.</note> they care for none of thoſe things. Will not this make men ſay the Magiſtrate weares a ſcabbard only, and not a ſword? Or if a ſword, will they not ſay it is ruſty for want of drawing? O remember, my Lords and Gentlemen, you that are in authority,
+<note place="margin">Rom. 13.14.</note> that you beare not the Sword in vain. <hi>Officium inane malefici<g ref="char:EOLhyphen"/>um immane;</hi> a vaine Officer is a maine offender. <hi>If you know theſe things, happy
+<pb n="24" facs="tcp:170405:17"/>are you if you do them.</hi> To examine, to diſcern what you examine, and to ex<g ref="char:EOLhyphen"/>ecute what you diſcern, this completes judgement. And that's the firſt Act, <hi>judge,</hi> which I now leave, and remove to the Object, <hi>the poore. He ſhall judge the poore of the people.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>But why the poore? Doth not the Philoſopher call the Law <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a minde without affections? a ſoule without paſſions? inſinuating that Ju<g ref="char:EOLhyphen"/>ſtice ſees, but takes no notice; Knows but is not moved with any excentrick conſiderations.
+<note place="margin">Lev. 19.15.</note> And are they not the expreſſe words of the royall Law, <hi>You ſhall do no unrighteouſneſſe in judgement; thou ſhalt not reſpect the perſon of the poor, nor honour the perſon of the mighty?</hi> True, not the perſon. It is not to prefer the perſon of the poor under that nude and abſtracted conſideration that the Magiſtrate muſt judge for him; but to beare him up againſt thoſe incommo<g ref="char:EOLhyphen"/>dations and diſadvantages which po<g ref="char:EOLhyphen"/>verty is apt to labour under. The hand of power muſt keepe the ſcales even, that the poor mans condition do not let down his cauſe, muſt ſo re<g ref="char:EOLhyphen"/>gulate and guide the ballance, that he
+<pb n="25" facs="tcp:170405:17"/>who wants weight in honeſty, may not turn the ſcales by the odds of his honour.</p>
+               <p>Thus far the poor may be, muſt be reſpected in judgement, to ſet their cauſes upon even ground with theirs, whoſe perſons are higher then they.</p>
+               <p>Thus <hi>He ſhall judge the poor of the peo<g ref="char:EOLhyphen"/>ple.</hi>
+               </p>
+               <p>
+                  <hi>The poore of the people.</hi>
+                  <note place="margin">Cicero.</note> The plebecula in the Oratours term, the loweſt rank, and meaneſt ſort of people: and one of the Fathers makes them poore e<g ref="char:EOLhyphen"/>nough; <hi>In juſtitia judicabit mendicos,</hi>
+                  <note place="margin">
+                     <hi>Tertul. Cont. Mar<g ref="char:EOLhyphen"/>cion.</hi> c. 14.</note> ſo poor that they are ſcarce leſſe then beggars.</p>
+               <p>I care not for dealing with the Alle<g ref="char:EOLhyphen"/>gorical ſenſes, which uſually rather play with, then improve truths.</p>
+               <p>I'le but tell you how <hi>Euthymius</hi> ta<g ref="char:EOLhyphen"/>king judging in the worſt ſenſe, ex<g ref="char:EOLhyphen"/>pounds the poore of the people, the rude and raffle ſort of the <hi>Jewes,</hi> poor in underſtanding,
+<note place="margin">Lovin. in loc.</note> 
+                  <hi>Qui nudae legis literae inſiſtentes, ad occultas ſancti ſpiritus di<g ref="char:EOLhyphen"/>vitias proſpicere non valebant.</hi> Who in<g ref="char:EOLhyphen"/>ſiſting upon the bare letter of the law, and their beggarly rudiments, were ignorant of the hidden riches of the
+<pb n="26" facs="tcp:170405:18"/>ſpirit: <hi>And they have one that judgeth them,</hi>
+                  <note place="margin">John 5.45.</note> 
+                  <hi>even Moſes in whom they truſt.</hi> And taking judging in the better ſenſe, by the <hi>poore of the people</hi> under<g ref="char:EOLhyphen"/>ſtands the Apoſtles, mony-leſs for the moſt part,
+<note place="margin">John 3.6.</note> as <hi>Peter, Gold and ſilver have I none,</hi> and at beſt having but one purſe amongſt them all: And by the <hi>children of the Needy,</hi> the Diſciples, who forſook all and followed Chriſt, who hath therefore promiſed to make them ample reparatio<g ref="char:cmbAbbrStroke">̄</g>, when he comes to judge, and ſit on the Throne of his glory.
+<note place="margin">Mat. 19.27, 18, 29.</note> 
+                  <hi>Every one that hath forſaken houſes or friends, or lands for my Names ſake, ſhall receive an hundred fold, and ſhall in<g ref="char:EOLhyphen"/>herit everlaſting life.</hi>
+               </p>
+               <p>Our two Tranſlations will ſhew us poor enough, we need not ſeeke or make more.</p>
+               <p>In the other Tranſlation, they are called the <hi>ſimple folke. He ſhall keepe the ſimple folke by their right.</hi> Not ſimple, that is plain and down-right. As <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> was a plain man,
+<note place="margin">Gen. 25.27.</note> 
+                  <hi>vir ſimplex,</hi> ſayes the vulgar Latine, a ſimple man dwel<g ref="char:EOLhyphen"/>ling in Tents. Simple, that is ſincere,
+<pb n="27" facs="tcp:170405:18"/>and without guile, a man made after the honeſt plain mode of thoſe better times: Simple folke are folke without mixture, and thoſe too familiar com<g ref="char:EOLhyphen"/>poſitions of ſubtilty, fraud, and cun<g ref="char:EOLhyphen"/>ning, of which the greater part of the world are made up at this day. Men unſophiſticated, uncompounded of thoſe ſemblances, artifices, and preten<g ref="char:EOLhyphen"/>ces which have put ſo many cheats up<g ref="char:EOLhyphen"/>on the world. Single-hearted and clear breaſted men, you may ſee what they are by what they do, their thoughts and actions are both of a peice: ſo ſin<g ref="char:EOLhyphen"/>gle in every thing, that they'l ſuffer, rather then double in any thing. Theſe ſimple ones are thoſe our Saviour calls <hi>poore in ſpirit,</hi> the bleſſed poor,
+<note place="margin">Mat. 5.3.</note> poor as to poſſeſſion, but rich in their reverſi<g ref="char:EOLhyphen"/>on, <hi>for theirs is the kingdome of heaven. Et quò longiùs affectu a terrenis diſtant,</hi>
+                  <note place="margin">
+                     <hi>Novarinus</hi> in Ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. p. 122. n. 126. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>R. <hi>Paupertas ſpiritus eſt contemptus ſui. Lud. de vita Chriſt p.</hi> 1. <hi>cap</hi> 33. <hi>n.</hi> 4. Gen 32.10</note> 
+                  <hi>eò coelo ſunt viciniores.</hi> They are ſo far from the earth in their affections, they muſt needs be near heaven. Theſe are they that are poor in their own opinio<g ref="char:cmbAbbrStroke">̄</g>, being filled with their own emptineſs, that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that ſelfe-contempt, which makes them think and ſpeak as <hi>Jacob</hi> with his <hi>minor miſerationibus, leſſe
+<pb n="28" facs="tcp:170405:19"/>then the leaſt of all mercies,</hi> and they are as poor in the worlds opinion too; for thoſe <hi>Filij Zion inclyti,</hi>
+                  <note place="margin">Lam. 4.2.</note> thoſe precious ſons of <hi>Zion,</hi> comparable to fine gold, how are they eſteemed as earthen pit<g ref="char:EOLhyphen"/>chers, the worke of the hands of the Potter! And therefore God will judge better of them, and provide better for them;
+<note place="margin">Pſ. 74.19.</note> 
+                  <hi>He will not deliver the ſoule of his Turtle Dove unto the multitude of the wicked, nor forget the congregation of his poore for ever.</hi> His poore, the ſimple folke, <hi>the poore in ſpirit,</hi> they are the firſt. <hi>He ſhall judge the poore of the people.</hi>
+               </p>
+               <p>This Tranſlation, in which I have read and followed the Text,
+<note place="margin">1 Tim 6.17.</note> ſeems to intend another ſort of poor: the poor outwardly, the poore of this world. There are the rich in this world, and the poore in this world, St. <hi>Paul</hi> calls them ſo,
+<note place="margin">Jam. 2.5.</note> St. <hi>James</hi> theſe; ſuch as want not only the affluence and abundance, but even the conveniences and neceſ<g ref="char:EOLhyphen"/>ſaries of this life. Of theſe we may meet with three ſorts. There are poor by the hand of <hi>Negligence, Violence, Pro<g ref="char:EOLhyphen"/>vidence.</hi>
+               </p>
+               <p n="1">1. There are ſome poor by the hand
+<pb n="29" facs="tcp:170405:19"/>of negligence,
+<note place="margin">Act. 20.34.</note> 
+                  <hi>Whoſe hands miniſter not to their neceſſities.</hi> And how ſhould they? when the wiſe man tells us, <hi>Abſcondit piger manum ſuam ſub aſcella,
+<note place="margin">
+                        <hi>Aſcella, i<g ref="char:EOLhyphen"/>dem quod Axilla.</hi> Pro. 19.24.</note> A ſloathfull man hideth his hand in his boſome,</hi> or under his arme, <hi>hugging it becauſe it is i<g ref="char:EOLhyphen"/>dle, and making much on't as it were for doing nothing,</hi> given up to ſupineſs and oſcitancy. Oh! that's Manna indeed that will drop into their mouths, and no diet ſo ſweet as the bread of idle<g ref="char:EOLhyphen"/>neſſe. Indeed he muſt either eat that or ſtarve, for his own crop will not afford him bread, do but ſee it, and you'l ſay ſo.
+<note place="margin">Pro. 24.30, 31.</note> 
+                  <hi>I went by the field of the ſloathfull, and lo it was all grown over with thornes, and nettles had covered the face thereof.</hi> The wiſe man by an elegant <hi>Mimeſis</hi> brings him in the per<g ref="char:EOLhyphen"/>ſon, poſture,
+<note place="margin">Verſ. 33.</note> and language of the ſleep<g ref="char:EOLhyphen"/>er; <hi>Yet a little ſleepe, a little ſlumber:</hi> but this <hi>ſinite paululum ibit in Longum</hi> (as St. <hi>Auguſtine</hi>) all's little with them, and their little wil never be enough.
+<note place="margin">Ep minon<g ref="char:EOLhyphen"/>das.</note> It was the ſaying of a Captain: who ran his ſleeping <hi>Sentinel</hi> through, <hi>talem reliqui, qualem inveni,</hi> I left him as I found him. You into whoſe hands God hath given the Sword of Juſtice, as you may not
+<pb n="30" facs="tcp:170405:20"/>kill theſe ſleepers upon that ſingle ac<g ref="char:EOLhyphen"/>count, ſo neither will you (I hope when you meete with them) leave them as you found them. Eſpecially remembring that expreſſion of our Sa<g ref="char:EOLhyphen"/>viour's,
+<note place="margin">Mat. 25.26.</note> 
+                  <hi>Thou wicked and ſloathful ſervant; â nequaquàm facilè tranſitur ad nequam.</hi> Idle will ſoon be evill,
+<note place="margin">1 Pet 2.14.</note> and you are for the <hi>puniſhment of evill doers.</hi>
+               </p>
+               <p>And another ſort of Poor there are by the hand of negligence, which I humbly crave leave to mention in this place, becauſe they have hitherto paſs'd with little or no notice from the Magiſtrate, and I know ſome places have been peſter'd with them, I mean a running ſort of Sectaries, that are firſt idle-headed,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> and then idle-handed, <hi>creeping into houſes</hi> (and are commonly as poore as they can creep) and theſe skrew themſelves into the opinion &amp; affection of their Proſelytes ſo far, till they call them from their callings, and make them ſpend themſelves in fre<g ref="char:EOLhyphen"/>quent treatments of their ſeducers. The former <hi>Solomon</hi> calls <hi>ſleepers,</hi> and theſe St.
+<note place="margin">Jude 8.</note> 
+                  <hi>Jude</hi> calls <hi>dreamers, filthy drea<g ref="char:EOLhyphen"/>mers, deſpiſing dominion, and ſpeaking evill of Dignities.</hi> Theſe religious kind
+<pb n="31" facs="tcp:170405:20"/>of Vagabonds (pardon the expreſſion) having got a ſtocke of Confidence and Canting, preſently ſet up for them<g ref="char:EOLhyphen"/>ſelves, traverſe the Countrey, and ſcatter up and downe their wilde and empty diſcourſes againſt Magiſtracy and Miniſtry, Church, and Church-Government, maintenance by tythes, and Paedobaptiſme, and like <hi>Theudas,</hi>
+                  <note place="margin">Acts 5.36.</note> boaſt themſelves to be ſome body, to whom a number of men joyne them<g ref="char:EOLhyphen"/>ſelves, as in the late dayes of deſection, and I wiſh I could not ſay, at this day. So that what <hi>Pharaoh</hi> with cruelty e<g ref="char:EOLhyphen"/>nough charged upon the poor oppreſ<g ref="char:EOLhyphen"/>ſed <hi>Iſraelites,</hi> will without breach of charity be the crime of theſe Errants,
+<note place="margin">Exo. 5.17.</note> 
+                  <hi>You are idle, you are idle, and therefore you ſay let us goe and do ſacrifice to the Lord:</hi> and ſome ſuch employment as the <hi>Iſraelites</hi> had would be fitteſt for them;
+<note place="margin">Verſe 12.</note> 
+                  <hi>Better they were ſcattered abroad throughout all the Land, though but to ga<g ref="char:EOLhyphen"/>ther ſtrawes,</hi> then ſuffered to meet in ſuch riotous numbers to ſpread their Hereſies and Treaſons. They are the firſt, and worſt ſort of poor, let them be judged, but with judgement in the ſharper, and ſeverer ſenſe. So, <hi>Hee
+<pb n="32" facs="tcp:170405:21"/>ſhall judge the poore of the people.</hi>
+               </p>
+               <p>Poore by the hand of negligence, they are the firſt.</p>
+               <p n="2">2. There are the poor by the hand of <hi>Violence.</hi> Some that make them<g ref="char:EOLhyphen"/>ſelves poor, and it is pity but they ſhould be ſo, by laying violent hands upon their owne eſtates. Such the proud, that wear out their Lord-ſhips upon their backs. Such the riotous, that ſends an eſtate down his throat, and conſumes all upon his belly. Such the gameſter, that crumbles it away with his fingers. Such the Litigious, that quarrels it away at the Barr, and will be never the wiſer for the pro<g ref="char:EOLhyphen"/>verb that tells him, <hi>Lawyers houſes are founded upon the skulls of fooles.</hi> Such poore will finde no relief by the judg<g ref="char:EOLhyphen"/>ing of the Text. But there are ſome made poor by the violent hands of o<g ref="char:EOLhyphen"/>thers, ſuch who knew no goods to a good conſcience, and have loſt all to keep faith unfeigned; as reſolved as <hi>Job,</hi>
+                  <note place="margin">Job 27.5.</note> 
+                  <hi>till I die I will not remove my inte<g ref="char:EOLhyphen"/>grity from me.</hi>
+                  <note place="margin">Heb. 10.34</note> As ſtout as thoſe noble confeſſors, <hi>that tooke joyfully the ſpoyling of their goods, knowing they have in hea<g ref="char:EOLhyphen"/>ven a better and more enduring ſubſtance.</hi>
+                  <pb n="33" facs="tcp:170405:21"/>Keeping poſſeſſion of their inward peace againſt all aſſaults, it being in<g ref="char:EOLhyphen"/>deed the unplunderable riches of a Chriſtian, ſtanding unbroken, unſha<g ref="char:EOLhyphen"/>ken in their profeſſion and Loyalty, even when times were like thoſe <hi>ante<g ref="char:EOLhyphen"/>diluvian</hi> dayes, <hi>corrupt before God,</hi>
+                  <note place="margin">Gen. 6.11.</note> 
+                  <hi>and the earth was filled with violence.</hi>
+               </p>
+               <p>There is a <hi>He</hi> that will judge this <hi>poore of the People,</hi> and therefore you ſons of <hi>Violence,</hi> whoever you be, reſt not wholly in an Act of Grace here be<g ref="char:EOLhyphen"/>low (for which you have cauſe to bleſs God, and the King, and much good may it do you) but ſue out your par<g ref="char:EOLhyphen"/>don above too, and to your impunity add your repentance. For if the Judge called him <hi>foole,</hi>
+                  <note place="margin">Lu. 12.20. St. <hi>Auguſt.</hi>
+                  </note> who laid up his owne goods: <hi>vos illi invenite nomen qui tulit aliena,</hi> Finde a name bad enough for him if you can, who takes away ano<g ref="char:EOLhyphen"/>ther man's. And if the ſentence ſhall run ſo ſevere againſt negative offend<g ref="char:EOLhyphen"/>ers, <hi>I was hungry &amp; you gave me no meat:</hi>
+                  <note place="margin">Mat. 25.42 43.</note> 
+                  <hi>I was thirſty and you gave me no drinke: I was a ſtranger and you tooke me not in: naked and you cloathed me not: ſicke and in priſon and you viſited me not;</hi> how dreadfull muſt the doom needs be a<g ref="char:EOLhyphen"/>gainſt
+<pb n="34" facs="tcp:170405:22"/>all poſitive impiety? againſt ſuch as took meat from his mouth, cloaths from his back, turn'd him out of his owne doors, and caſt him into priſon? <hi>He ſhall judge the poor of the peo<g ref="char:EOLhyphen"/>ple.</hi> Poor by the hand of <hi>violence,</hi> they are the ſecond.</p>
+               <p n="3">3. There are the poor by the hand of <hi>Providence,</hi> ſuch to whom the hand of Heaven hath carved more ſparing<g ref="char:EOLhyphen"/>ly, and given a ſhorter allowance in the things of this life. This ſort of poor are one of the ſtanding <hi>Orders</hi> of the Creation, the great and only wiſe God having diſpoſed of the Inhabit<g ref="char:EOLhyphen"/>ants as of the Earth it ſelfe, raiſing ſome into mountains in eſtate and dig<g ref="char:EOLhyphen"/>nity, and laying others in the plain and levell of a meane and indigent condi<g ref="char:EOLhyphen"/>tion. Theſe are God's poor, he makes them, he keeps them. He takes notice of them, and cares for them. His notice is obſervable, in that whereas he calls the rich man by an <hi>Appellative</hi> onely,
+<note place="margin">Luke 16.19, 20.</note> he ownes <hi>Lazarus</hi> by a proper name. His care is remarkable in that he is ſaid to prepare for them.
+<note place="margin">Pſa. 68.10.</note> 
+                  <hi>Thou, O God, haſt pre<g ref="char:EOLhyphen"/>pared of thy goodneſſe for the poore.</hi> As if they were ſuch extraordinary Gueſts,
+<pb n="35" facs="tcp:170405:22"/>they could not be treated without preparation. The rich have got all they'r like to have.
+<note place="margin">Luk. 6.24.</note> 
+                  <hi>Woe unto you that are rich, for you have received your conſo<g ref="char:EOLhyphen"/>lation:</hi> The eſtate of the poor lies in hope, he's but preparing for the poor. He will not put them off with <hi>a portion in this life,</hi> with thoſe pittifull riches,
+<note place="margin">Pſ. 17.14.</note> (of which the Father) <hi>nec verae ſunt nec veſtrae,</hi> they are neither true, nor truly his that hath them; but he'l give them treaſure in Heaven, where their bank of happineſſe is going on. They ſhall have the riches of Grace here in earn<g ref="char:EOLhyphen"/>eſt, and he will moſt aſſuredly poſſeſs them of thoſe untold ſums of glory which out-vy the Stars. They are his, they muſt be the Judge's care. <hi>He ſhall judge the poor of the people.</hi> Poor by the hand of <hi>Providence,</hi> they are the third.</p>
+            </div>
+            <div type="part">
+               <p>I have now done with the Act and Object ſingly and by themſelves, let us take a ſhort view of them joyntly and together, and I ſhall leave this par<g ref="char:EOLhyphen"/>ticular.</p>
+               <p>The poor you ſee are given in charge to the Judge; <hi>He ſhall judge the poore of the people.</hi>
+               </p>
+               <pb n="36" facs="tcp:170405:23"/>
+               <p>For which diſcharge there are theſe requiſites; He that will judge the poor of the people muſt be thus qua<g ref="char:EOLhyphen"/>lified.</p>
+               <p>With <hi>Magnanimity;</hi> He muſt not be fearfull. With <hi>Humility;</hi> He muſt not be ſcornfull. With <hi>Impartiality;</hi> He muſt reſpect no perſons. With <hi>Inte<g ref="char:EOLhyphen"/>grity;</hi> He muſt receive no gifts.</p>
+               <p n="1">1. With <hi>Magnanimity;</hi> he muſt not be fearfull. The <hi>Athenian</hi> Judges were minded of this courage by ſitting in <hi>Mars</hi> ſtreet. And ſuch remembrancers to <hi>Solomon</hi> were the 12. Lions ſtand<g ref="char:EOLhyphen"/>ing upon the ſteps of his Throne.
+<note place="margin">1 K. 10.20</note> If there be truth in the Armorial Enſigns of the children of <hi>Iſrael,</hi>
+                  <note place="margin">
+                     <hi>Br. pſeudo<g ref="char:EOLhyphen"/>dex. lib.</hi> 5. <hi>cap.</hi> 10.</note> or in the four Legionary ſtandards (under every one of which marched three Tribes) the Lion was conſtantly the bearing of the Tribe of <hi>Judah</hi> the Royall and Judici<g ref="char:EOLhyphen"/>ary Tribe: And whether there be or not, I am ſure there is in <hi>Jacobs</hi> pro<g ref="char:EOLhyphen"/>phetique bleſſing, where with the Scepter and Law-giving power, he bequeaths him the embleme of a Lion. <hi>He couched as a Lion,</hi>
+                  <note place="margin">Gen. 4<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.9. <hi>Com.</hi> in <hi>Gen. p.</hi> 314. l. B.</note> 
+                  <hi>and as an old Lion; who ſhall rouze him? Hos leoninos Judae a<g ref="char:EOLhyphen"/>nimos habeant duces,</hi> (ſayes <hi>A Lapide</hi>)
+<pb n="37" facs="tcp:170405:23"/>Let the Chieftains and Judges of the people be ſpirited like Lions, to on with courage in all their actings. A poor ſpirited Judge is no Judge for the poor. The prey is often in the very mouth of the Bear and Lion, and 'twill need the heart of <hi>David</hi> to make a reſ<g ref="char:EOLhyphen"/>cue. And this is one thing they are taught by being called Gods; <hi>Sciant ſe eſſe Deos ut homines non timeant;</hi>
+                  <note place="margin">
+                     <hi>Corn. a La<g ref="char:EOLhyphen"/>pid. Com. in</hi> Exod.</note> That knowing themſelves Gods, they need not feare men, not the greateſt of men, their frowns, their threats, though armed with never ſo much power, and intereſt for Revenge. As the ſhaking hand carries not true, ſo the coward<g ref="char:EOLhyphen"/>ly, timorous Judge too often miſſeth the marke of juſtice. Take but <hi>Moſes</hi>'s rule, and it will keep you ſteady.
+<note place="margin">Deu. 1.17.</note> 
+                  <hi>You ſhall not be afraid of the face of man, for the judgement is Gods. Magnanimity,</hi> that's the firſt Requiſite which he muſt be furniſhed withall, that will judge the poor of the people.</p>
+               <p n="2">2. With <hi>Humility;</hi> He muſt not be ſcornfull. The proud was never the poor mans friend. Magiſtrates ſhould be like clouds, exalted and taken on high by the Sun, that they may with
+<pb n="38" facs="tcp:170405:24"/>more advantage diſtribute their boun<g ref="char:EOLhyphen"/>ty to the craving ground.
+<note place="margin">V. 6. <hi>hujus</hi> Pſal.</note> 
+                  <hi>He ſhall come downe like raine upon the mowen graſſe, as ſhowers that water the earth,</hi> and ſweet are thoſe influences of juſtice which fail upon the lower grounds. Let not your God ſhips ſwell you above the bigneſs &amp; proportion of men; if they do,
+<note place="margin">Pſal 82.7.</note> remember, I beſeech you, there's a <hi>Moriemini</hi> will ſpoil your Deity, <hi>you ſhall die like men, and fall like one of the Princes.</hi> When you are culminant and at your higheſt point, like the Sun, let your beams even then be moſt power<g ref="char:EOLhyphen"/>full, and influence with life upon the lower world. God's ſeat is higher then yours,
+<note place="margin">Pſal. 11.4.</note> it is in Heaven, and yet <hi>his eyes behold, his eye-lids try the children of men,</hi> do not you then overlook them.
+<note place="margin">Iſa. 57.15.</note> 
+                  <hi>The high and lofty one that inhabiteth eternity; dwelleth alſo with him that is of an humble ſpirit:</hi> And if he dwell with him, be not you ſtrangers to him. <hi>Humility,</hi> that's the ſecond Requiſite in him that will judge the poor of the people.</p>
+               <p n="3">3. With <hi>Impartiality;</hi> He muſt re<g ref="char:EOLhyphen"/>ſpect no perſons. Not for Condition, not for Relation.</p>
+               <pb n="39" facs="tcp:170405:24"/>
+               <p n="1">1. Not for Condition; <hi>Ita parvum audietis ut magnu<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi> was <hi>Moſes</hi>'s rule, muſt be yours,
+<note place="margin">Deut. 1.17.</note> 
+                  <hi>You ſhall heare the ſmall as well as the great. Paul</hi> with his chaine ſhall have as faire a deciſion as <hi>Bernice</hi> com<g ref="char:EOLhyphen"/>ing into the place of hearing, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> with all her fantaſtique pomp and bravery. If that ſame <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (as St. <hi>James</hi> calls him) that gold-fingered man carry all, and the poore man <hi>in vile raiment</hi> be ſet, <hi>ſub ſcabello,</hi>
+                  <note place="margin">Jam. 2.2, 3, 4.</note> under your foot-ſtool; Are you not then partiall in your ſelves, and are become Judges (indeed but it is) of e<g ref="char:EOLhyphen"/>vill thoughts? We read of twice when all men meet without difference in their compoſition and firſt materials. <hi>The rich and poor meet together,</hi>
+                  <note place="margin">Prov. 22.2. Job 3.19.</note> 
+                  <hi>the Lord is the maker of them both.</hi> In the Grave, and their laſt reſolution, <hi>The ſmall and the great are there.</hi> I pray you, let them have a third meeting upon even terms even before the ſeat of Juſtice. Let your Tribunall make no more differ<g ref="char:EOLhyphen"/>ence then was in their Riſe, and Ori<g ref="char:EOLhyphen"/>ginall, then ſhall be in their duſt, and Redaction, when they ſhall lye downe alike in the chambers of darkneſſe. Be as eye-leſs as the <hi>Athenian</hi> Judges,
+<pb n="40" facs="tcp:170405:25"/>who ſate in the night, when they might heare Cauſes onely, not ſee per<g ref="char:EOLhyphen"/>ſons.</p>
+               <p>Reſpect them not for their conditi<g ref="char:EOLhyphen"/>on, that's firſt.</p>
+               <p n="2">2. Not for their Relation: Favour looks ill-favouredly upon the Bench. <hi>Exuat perſonam judicis qui induit Amici:</hi> He that will be a friend, let him be no Judge. The Magiſtrate muſt be like <hi>Levi,</hi> who ſaid unto his father and to his mother,
+<note place="margin">Deu. 33.9.</note> 
+                  <hi>I have not ſeen him, neither did he acknowledge his brethren, nor knew his owne children. Torquatus</hi> did not, <hi>Zaleucus</hi> did not, the one a <hi>Roman,</hi> the other a <hi>Grecian,</hi> neither a Chriſtian, and yet both eminently known for their impartiall ſeverity toward their owne ſons. <hi>Amica veritas,</hi> Truth is the juſt mans neareſt friend, and let the Judge know no other favourite. This <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, this impartiality, reſpecting no perſons either for Condition or Relation, that's a third Requiſite in him that will <hi>judge the poore of the peo<g ref="char:EOLhyphen"/>ple.</hi>
+               </p>
+               <p n="4">4. With <hi>Integrity;</hi> He muſt receive no gifts. Love dazles, but gifts daſh out the eyes, blindes them; ſayes he
+<pb n="41" facs="tcp:170405:25"/>that made the eyes,
+<note place="margin">Exo. 23 8.</note> 
+                  <hi>Thou ſhalt take no gift, for the gift blindeth the wiſe.</hi> If the Cauſe go by gifts, to be ſure the poor muſt needs go by the worſt on't. As therefore the Judge muſt not be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a reſpecter of perſons, ſo nei<g ref="char:EOLhyphen"/>ther <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> an accepter of preſents. It is the glory of a Judge (but how few attain it?) when it may be ſaid of him <hi>non ditior ſed clarior evadit,</hi>
+                  <note place="margin">
+                     <hi>A Lap. Com. in</hi> Exod.</note> he leaves not ſuch a name for being rich, as be<g ref="char:EOLhyphen"/>ing righteous. When he can make <hi>Sa<g ref="char:EOLhyphen"/>muel's</hi> challenge:
+<note place="margin">1 Sam: 12.3.</note> 
+                  <hi>Witneſſe againſt me before the Lord and before his Annointed: whoſe Oxe have I taken? or whoſe Aſſe have I taken? or whom have I defrauded? whom have I oppreſſed? or of whoſe hands have I received any bribe to blinde mine eyes.</hi>
+                  <note place="margin">Jud. 16.21 25.</note> What a ſad ſpectacle was Judge <hi>Sampſon</hi> without his eyes? but a bribe-blinded Judge is ſo much the worſe, becauſe his owne hands put out his owne eyes. Oh! this <hi>ſententia venalis</hi> (as St. <hi>Ambroſe</hi> phraſeth it) a ſale ſen<g ref="char:EOLhyphen"/>tence is one of the worſt bargains a man can make, and the very next to that in the Goſpel, of taking the world in exchange for the ſoule. We have read and heard of ſtrange ſales:
+<pb n="42" facs="tcp:170405:26"/>—<hi>Venaleſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi>
+                  <note place="margin">Lucan: Pharſ:</note> 
+                  <hi>manus—Sale-Armyes,</hi> Forces let out, Mercenary ſouldiers, though that be no rarity now. We have ſeene ſtranger, the King, the Church (I had almoſt ſaid) Religion and all expoſed to ſale. The Law was at ſtake too for company, &amp; therefore you that are the Profeſſors of it, adde not to the number of monſtrous ſales, by making any unconſcionable ſale of it, now it is confirmed in your hands a<g ref="char:EOLhyphen"/>gain; have not <hi>Os venale,</hi> ſell not your ſpeech, your ſilence, your cauſe, your Client and all for advantage. Let not God complain,
+<note place="margin">Mic. 3.11. <hi>Heſiod.</hi>
+                  </note> as of old, <hi>that the heads of Iſrael judge for reward.</hi> The Poet tels us of a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and a <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a bribe<g ref="char:EOLhyphen"/>eater, and a Bribe-devourer: but the time will come, when every ſuch de<g ref="char:EOLhyphen"/>vourer that runs open-mouth'd at gifts, and ſwallows all that comes, with ſo much greedineſſe, ſhall be ſick of his Morſels, and they ſhall not ſtay with him.
+<note place="margin">Job 20.15.</note> 
+                  <hi>He hath ſwallowed down rich<g ref="char:EOLhyphen"/>es, and he ſhall vomit them up again.</hi> Rain is good (ſaies one) and the earth is good,
+<note place="margin">
+                     <hi>Tr.</hi> in Prov.</note> 
+                  <hi>ſed ex eoru<g ref="char:cmbAbbrStroke">̄</g> commixtione fit lutum,</hi> mixe them two together, and they make dirt. To give is laudable, and
+<pb n="43" facs="tcp:170405:26"/>to receive allowable: but the unequal mixing of them two often makes foul and dirty the clean and fair paths of juſtice. Let me therefore for a cloſe of this lay the practice of holy <hi>David</hi> be<g ref="char:EOLhyphen"/>fore you; <hi>I was upright before him:</hi>
+                  <note place="margin">Pſ. 18.23.</note> 
+                  <hi>and I kept my ſelfe from mine iniquity, there<g ref="char:EOLhyphen"/>fore hath the Lord recompenced me accor<g ref="char:EOLhyphen"/>ding to my righteouſneſſe, according to the cleanneſſe of my hands in his eye-ſight.</hi> Keep your hearts right, &amp; your hands clean, and the Lord recompence you accordingly; that's your integrity, the fourth and laſt of the Requiſites, wherewith he muſt be furniſhed, that will <hi>judge the poor of the people.</hi>
+               </p>
+               <p>I have done with the firſt particular in the defenſive part of juſtice, the <hi>A<g ref="char:EOLhyphen"/>gent</hi> with his firſt <hi>Act</hi> and <hi>Object.</hi> The <hi>Act, judge,</hi> the <hi>Object, poor: He ſhall judge the poor of the people.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>Let us on to the ſecond: <hi>He ſhal ſave the children of the needy.</hi>
+               </p>
+               <p>Which is not another <hi>Act</hi> and <hi>Object,</hi> but rather the ſame under other ex<g ref="char:EOLhyphen"/>preſſions. For <hi>pauperes, &amp; filii pauperu<g ref="char:cmbAbbrStroke">̄</g>:</hi> the poor and children of the needy,
+<note place="margin">
+                     <hi>Aug. l.</hi> 4. <hi>Cont. Marc.</hi> c.</note> are all one, as <hi>Zion</hi> and the daughter of <hi>Zion,</hi> ſo St. <hi>Auguſtine.</hi> And ſo the chil<g ref="char:EOLhyphen"/>dren
+<pb n="44" facs="tcp:170405:27"/>of the needy are but the poore in the loweſt ſenſe, and to ſave is but to judge in the beſt ſignification, to em<g ref="char:EOLhyphen"/>ploy and lay out the judiciary power in maintaining the cauſe of the poore, and being an Helper to the friend<g ref="char:EOLhyphen"/>leſſe.
+<note place="margin">Pſ. 10.14.</note>
+               </p>
+               <p>The words then being exegeticall, and declarative of the former, will need little diſcuſſing, I ſhall be brief, very brief in their diſpatch.</p>
+               <p>
+                  <hi>He ſhall ſave.</hi> In the other Tranſlati<g ref="char:EOLhyphen"/>on, <hi>defend.</hi> And indeed where the Rich are Plaintiffs, the Poor had need of a better Defendant then them<g ref="char:EOLhyphen"/>ſelves.
+<note place="margin">Pſ. 82.1.3.</note> And therefore God, <hi>ſtanding in the Congregation of the mighty, and judging among the Gods,</hi> gives them this in charge, <hi>Defend the poore and father<g ref="char:EOLhyphen"/>leſſe:</hi> do juſtice to the afflicted and needy. Defend them: be their ſhield to keep off the thruſts of the mighty. <hi>Be a ſtrength to the poore,</hi>
+                  <note place="margin">Iſa. 25.4.</note> 
+                  <hi>a ſtrength to the needy in their distreſſe, a refuge from the ſtorme, a ſhadow from the heat, that the blaſt of the terrible ones may be as a ſtorme againſt the wall.</hi> Interpoſe betwixt them and danger, bear off the blowes which are made at them. <hi>He ſhall de<g ref="char:EOLhyphen"/>fend
+<pb n="45" facs="tcp:170405:27"/>the children of the needy.</hi>
+               </p>
+               <p>But, if you pleaſe, wee'l keep to our owne Tranſlation: <hi>He ſhall ſave.</hi>
+               </p>
+               <p>Which if we underſtand of Eternall ſafety, of that impregnable, &amp; inex<g ref="char:EOLhyphen"/>pugnable ſecurity of the Saints upon the holy hill, when they ſhall be out of Gun-ſhot, and beyond the reach of the ſpoyler, and hands of violence, then is it the alone worke of the Lord Jeſus Chriſt:
+<note place="margin">Acts 4.12. Iſa 63.1.3 5.</note> 
+                  <hi>Neither is there ſalvation in any other. Who is this that cometh from E<g ref="char:EOLhyphen"/>dom, with dyed garments from Bozrah? This that is glorious in his apparell, tra<g ref="char:EOLhyphen"/>vailing in the greatneſs of his ſtrength? I that ſpeake in righteouſneſſe, mighty to ſave.</hi> Ego torcular calcavi folus, <hi>I have troden the winepreſſe alone, and of the people there was none with me. I looked, &amp; there was none to helpe, therefore mine owne arme brought ſalvation.</hi>
+                  <note place="margin">Chap. 45.15.</note> 
+                  <hi>He that thus ſaves is a Saviour alone, the God of Iſrael, the Saviour.</hi>
+               </p>
+               <p>But if we take it for temporal ſa<g ref="char:EOLhyphen"/>ving (as we have moſt reaſon in this place) then doth this great Saviour communicate his name, and admit of partners:
+<note place="margin">Judg. 3.9.</note> thus Judge <hi>Othniel</hi> is called a Saviour. And <hi>Nehemiah</hi> ſayes as much
+<pb n="46" facs="tcp:170405:28"/>of the the other Judges:
+<note place="margin">Neh. 9.27.</note> 
+                  <hi>According to thy manifold mercies, thou gaveſt them Sa<g ref="char:EOLhyphen"/>viours.</hi>
+               </p>
+               <p>So that the ſalvation of the Text is from both hands: Chriſt's and <hi>Solo<g ref="char:EOLhyphen"/>mon's:</hi> Gods and the King's: It is a pro<g ref="char:EOLhyphen"/>per worke for a God, for a Judge, for both, for either of them, each hath to do in it: <hi>He ſhall ſave the poore of the peo<g ref="char:EOLhyphen"/>ple.</hi>
+               </p>
+               <p>
+                  <hi>God ſhall ſave;</hi> that's the beſt, the firſt, let's look a little at that: And we can look no wayes but we ſee it. We of this Nation are the moſt joyfull wit<g ref="char:EOLhyphen"/>neſſes of this glorious truth, we have reaſon to make it our Motto for ever: <hi>Salvos faciet, He ſhall ſave the children of the needy.</hi>
+               </p>
+               <p>Our King miraculouſly preſerved, graciouſly reſtored, and that when hope ſeemed to be poſed, and expecta<g ref="char:EOLhyphen"/>tion non-pluſt, and his caſe little leſſe deſperate then theirs which <hi>He<g ref="char:EOLhyphen"/>man</hi> bemoans to God:
+<note place="margin">Pſal. 88.3, 4, 5.</note> 
+                  <hi>His ſoule full of troubles, and his life drawing nigh to the grave: counted with them that goe downe into the pit: as a man that hath no ſtrength. Free among the dead like the ſlaine that lye in the grave, whom thou re<g ref="char:EOLhyphen"/>membreſt
+<pb n="47" facs="tcp:170405:28"/>no more, &amp; they are cut off from thine hand.</hi>
+               </p>
+               <p>Our Religion reſcued from the confines of Atheiſme, the very jawes of irreligion and prophaneſs.</p>
+               <p>Our Church raiſed from the duſt, and reared out of her rubbiſh and ru<g ref="char:EOLhyphen"/>ines, after her Adverſaries had a long time been chief,
+<note place="margin">Lam. 1.5.</note> 
+                  <hi>and her Enemies proſpe<g ref="char:EOLhyphen"/>red, and ſpread out his hand upon all her pleaſant things:</hi>
+                  <note place="margin">Verſ. 10.</note> 
+                  <hi>The wayes of Zion mourn<g ref="char:EOLhyphen"/>ing, becauſe ſo few came to her ſolemn feaſts:</hi>
+                  <note place="margin">Verſ. 4.</note> 
+                  <hi>all her gates deſolate, her Prieſts ſighing, her Virgins afflicted, and her ſelfe in bit<g ref="char:EOLhyphen"/>terneſſe.</hi>
+               </p>
+               <p>Our Lawes framed, and founded by the wiſdome, and upon the well-grown experience of prudent and more ſober Anceſtors for ſucceſſive a<g ref="char:EOLhyphen"/>ges, the boundaries of our liberty and property re-eſtabliſhed, re-inforced, againſt the anomalous encroachments and arbitrary impoſitions of unreaſo<g ref="char:EOLhyphen"/>nable men.</p>
+               <p>
+                  <hi>Our lives given us for a prey:</hi> when,
+<note place="margin">Jer. 21.9.</note> with the widow in <hi>Timothy,</hi> (though in a far different caſe, ſhe for pleaſure, we for perplexity) <hi>we were dead,</hi>
+                  <note place="margin">1 Tim. 5.6.</note> 
+                  <hi>while we lived.</hi>
+               </p>
+               <pb n="48" facs="tcp:170405:29"/>
+               <p>Our peace and happy calme after ſo great a tempeſt.
+<note place="margin">Iſa. 2.4.</note> 
+                  <hi>Beating our ſwords into plow ſhares, and our ſpeares into pru<g ref="char:EOLhyphen"/>ning books,</hi>
+                  <note place="margin">Mic. 4.4.</note> 
+                  <hi>ſitting every man under his vine and under his fig-tree, and none to make him afraid.</hi>
+                  <note place="margin">Pſ. 144.14.</note> 
+                  <hi>No breaking in nor going out, no leading into captivity, no com<g ref="char:EOLhyphen"/>plaining in our ſtreets.</hi>
+               </p>
+               <p>Our plenty.
+<note place="margin">Pſ. 65.11.</note> 
+                  <hi>The yeare crowned with Gods goodneſſe, &amp; his paths dropping fat<g ref="char:EOLhyphen"/>neſſe.</hi>
+                  <note place="margin">Joel <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.24, 25.</note> 
+                  <hi>The floors full of wheat, and the fats over flowing with wine and oyle. The yeares reſtored to us that the Locuſt had eaten, the Cancker-worme and the Caterpillar, and the Palmer-worme, the great Army which was ſent among us.</hi>
+               </p>
+               <p>All theſe ſpeak to us in a plain and loud language this <hi>ſalvos faciet</hi> of the Text, <hi>He ſhall ſave the children of the needy.</hi>
+               </p>
+               <p>This is proſperity to our King, glory to our Church, happineſs to our King<g ref="char:EOLhyphen"/>dome, ſhipping to our Iſland, walls to our Garriſons, wiſdome to our Coun<g ref="char:EOLhyphen"/>ſellours, valour to our Souldiers, plen<g ref="char:EOLhyphen"/>ty to our borders, peace to our Nati<g ref="char:EOLhyphen"/>on, joy and ſecurity to us all, this is all in all. This <hi>ſalvos faciet, He ſhall ſave the children of the needy.</hi>
+               </p>
+               <pb n="49" facs="tcp:170405:29"/>
+               <p>That's one He. <hi>He</hi> indeed, the ſo<g ref="char:EOLhyphen"/>veraign and ſupream <hi>He,</hi> the firſt and great Saviour.</p>
+               <p>There's another <hi>He,</hi> a ſecond and ſubordinate <hi>He,</hi> a proxy, a ſub-ſavi<g ref="char:EOLhyphen"/>our, the King, the Judge, the Magi<g ref="char:EOLhyphen"/>ſtrate, <hi>He</hi> alſo hath a part to act in this <hi>ſalvos faciet, He ſhall ſave the children of the needy.</hi>
+               </p>
+               <p>It is not to be expected that the Lord ſhould make <hi>bare his holy arme</hi> to work great and miraculous deliveran<g ref="char:EOLhyphen"/>ces every day:
+<note place="margin">Iſa. 51.10.</note> You that are as the hand to that arme, or rather the inſtru<g ref="char:EOLhyphen"/>ment in that hand have your <hi>poſſe</hi> for that purpoſe. <hi>The Kingdom is the Lords,</hi>
+                  <note place="margin">Obad. 21.</note> 
+                  <hi>but from him ſhall come Saviours upon Mount Zion to judge the mount of Eſau.</hi> Therefore hath the great God armed you with his authority, and fortified you with his name, and ſtrengthened you with his Commiſſion, and intruſt<g ref="char:EOLhyphen"/>ed you with his power, that you may <hi>lift up the hands which hang down, and the feeble knees, and make ſtreight paths for their feet, leſt that which is lame be turn<g ref="char:EOLhyphen"/>ed out of the way;</hi> but let it rather be healed, let it be helped, let it be ſaved. <hi>He ſhall ſave the children of the needy.</hi>
+               </p>
+               <pb n="50" facs="tcp:170405:30"/>
+               <p>
+                  <hi>The children of the Needy. Of the Poore</hi> (ſayes the other Tranſlation) here are two words uſed for poor, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The one ſignifieth the poor that work<g ref="char:EOLhyphen"/>eth with his hands: the other the poor that hath no hands to work, the poor<g ref="char:EOLhyphen"/>eſt of the poor, the moſt forlorn and wretched: the ſons of miſery the <hi>Chal<g ref="char:EOLhyphen"/>dee</hi> renders it.</p>
+               <p>
+                  <hi>Videri poteſt exaggeratio in filiis Paupe<g ref="char:EOLhyphen"/>rum,</hi>
+                  <note place="margin">in <hi>Loc. p.</hi> 325. l. F.</note> ſaies <hi>Lorinus,</hi> there ſeems to be a whole heap of poverty in the expreſſi<g ref="char:EOLhyphen"/>ons here uſed. Every word ſpeakes them poorer then other. Here is <hi>popu<g ref="char:EOLhyphen"/>lus,</hi> or <hi>popellus</hi> rather, people of the loweſt ſort, and leaſt account. Then here are <hi>pauperes populi,</hi> the poor of thoſe people. And then <hi>filii pauperum,</hi> the children of thoſe poor. Of all peo<g ref="char:EOLhyphen"/>ple the poor are moſt have-leſs, and of all poore the Children are moſt helpleſſe: They are the needieſt of the poore, and the children of thoſe needy. Children that were ſold and ſlaved for want of the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the re<g ref="char:EOLhyphen"/>demption penny: and ſo ſignifies thoſe that were a kinde of Orphans with li<g ref="char:EOLhyphen"/>ving Parents, ſuch as were deſtitute of all parentall helps and advantages,
+<pb n="51" facs="tcp:170405:30"/>like thoſe precious Pilgrims,
+<note place="margin">Heb. 1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.37</note> 
+                  <hi>that were deſtitute, afflicted, tormented.</hi> Theſe, the more loſt they are, the more need they have of ſaving miſery is a moving plea where Compaſſion fits Judge. The God of Heaven will not over-looke theſe children of the needy as little, as low as they are: no more muſt the Gods on Earth. They need no Advo<g ref="char:EOLhyphen"/>cate but their adverſity, their conditi<g ref="char:EOLhyphen"/>on is an invitation to their eyes to ſee them, to their hands to ſave them. <hi>He ſhall ſave, &amp;c.</hi>
+               </p>
+               <p>But, I muſt not ſtay with this, I muſt haſt to the laſt part. Let me only mind you by a review of what is paſt, that the Magiſtrate muſt be a compound of juſtice and mercy. He muſt ſo do ju<g ref="char:EOLhyphen"/>ſtice that he remember to be merciful, and ſo ſhew mercy, that he forget not to be juſt. God furniſheth you with objects for both; when you meet with the evill, idle poor, judge them and ſpare not: when with the deſtitute, the afflicted, the children of the needy, ſave them. <hi>Do juſtice, and love mercy,</hi> the one by force, the other by choice.
+<note place="margin">Mica 6.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Mercy is a choyce, a lovely attribute, God loves it, do you ſo too. It is ſaid
+<pb n="52" facs="tcp:170405:31"/>of him that he made a <hi>way for his anger.</hi>
+                  <note place="margin">Pſ. 78.50.</note> As if there were no way for Anger to paſſe till he made it: or if it was made, it was grown up again for want of uſe, till he had made it anew. When the Lord was angry with <hi>Judah,</hi> &amp; threat<g ref="char:EOLhyphen"/>ned to ſhave her with a keen and cut<g ref="char:EOLhyphen"/>ting Judgement, it is ſaid he will do it,
+<note place="margin">Iſa. 7.20:</note> 
+                  <hi>in novacula conductâ,</hi> with a Razor that's hired, as if he had no Inſtruments of his own for ſo ſharp a work.
+<note place="margin">2 Cor. 1.3. Rom. 15.5. Hoſ. 14.3. Pſ. 102.17.</note> 
+                  <hi>He is the father of mercies, and God of conſolation. With him the fatherleſſe finde mercy. Hee regardeth the prayer of the deſtitute. He ſaves the afflicted people and children of the needy. Be you therefore mercifull as your heavenly Father is mercifull.</hi> It's like you will finde needy enough, and children of the needy too, for ſome have ſlain, and alſo taken poſſeſſion, every one hath been ready to tread upon him that was down, and go over the hedge where it was loweſt: I ſhall only be their Advocate ſo far as my Text war<g ref="char:EOLhyphen"/>rants me (for I would not repeat old injuries but repell new ones) remem<g ref="char:EOLhyphen"/>ber the <hi>ſalvos faciet</hi> lyes upon you, <hi>He ſhall ſave the Children of the needy.</hi>
+               </p>
+               <pb n="53" facs="tcp:170405:31"/>
+               <p>I have now done with the firſt ge<g ref="char:EOLhyphen"/>nerall part of the Text, the defenſive part of juſtice, in it's double Act and Object: <hi>He ſhall judge the poore of the people, and ſave the children of the nee<g ref="char:EOLhyphen"/>dy.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>The ſecond, the Offenſive part re<g ref="char:EOLhyphen"/>mains: but that it may not be ſo to you, I ſhall contract with as much haſt as method can fairely and poſſibly al<g ref="char:EOLhyphen"/>low.</p>
+               <p>
+                  <hi>And ſhall break in pieces the Oppreſſor.</hi>
+               </p>
+               <p>
+                  <hi>Conteret:</hi> ſhall bruiſe, or grinde,
+<note place="margin">
+                     <hi>Ribera in</hi> Hoſ. <hi>c.</hi> 13. <hi>n.</hi> 19.</note> or break ſmall. <hi>Metaphora a rebus quae mi<g ref="char:EOLhyphen"/>nutiſſimè confringuntur, &amp; quaſi in nihi<g ref="char:EOLhyphen"/>lum rediguntur.</hi> It ſeems to allude to drugs, or ſpices in a mortar, which for ſome time riſe and flye about, but at length are brought under, and quieted into a duſt.</p>
+               <p>
+                  <hi>Contundet:</hi> is the word ſome uſe, ſhall bruiſe, ſhall knock, and by beat<g ref="char:EOLhyphen"/>ing, repreſs.</p>
+               <p>
+                  <hi>Confringet,</hi> is St. <hi>Hieroms</hi> word: ſhall break aſunder, or into pieces: And bleſſed be God our <hi>Oppreſſours</hi> were in ſo many peices before, a little break<g ref="char:EOLhyphen"/>ing will ſerve the turn.</p>
+               <p>
+                  <hi>Comminuet, Perdet,</hi> are ſeveral words
+<pb n="54" facs="tcp:170405:32"/>to the ſame purpoſe, and therfore it is enough to name them, ſhall waſte, deſtroy the <hi>Oppreſſour.</hi>
+               </p>
+               <p>
+                  <hi>Humiliabit:</hi> ſo the Vulgar Latine, and moſt properly for ſome ſort of <hi>Op<g ref="char:EOLhyphen"/>preſsours,</hi> the affectors of <hi>Grandeur,</hi> men that are leapt a great height from the ground, and got aloft in the world; grown into ſuddain eſtates: who, (it is to be feared) would make but a ſlen<g ref="char:EOLhyphen"/>der, and faltring anſwer, ſhould they be aſked <hi>Iſaac</hi>'s queſtion to his ſuppo<g ref="char:EOLhyphen"/>ſed ſon <hi>Eſau;</hi>
+                  <note place="margin">Gen. 27.20.</note> 
+                  <hi>how is it that thou haſt found it ſo quickly my ſonne? Humiliabit,</hi> will ſit ſuch, he ſhall lay them low, as their deſerts are: he ſhall reduce them to their former ſtate, bring them downe, and levell them with their be<g ref="char:EOLhyphen"/>ginnings.</p>
+               <p>
+                  <hi>He ſhall humble the high looking Oppreſ<g ref="char:EOLhyphen"/>ſour.</hi>
+               </p>
+               <p>The word in the other Tranſlation ſeems to ſpeak all in one: <hi>He ſhall pu<g ref="char:EOLhyphen"/>niſh:</hi> puniſh is all the other, bruiſe, and beat, and break, and repreſſe, and waſte, and deſtroy, and bring down; and it ſeems to cut out, and ſquare a ſize, and proportion of puniſhment anſwerable to that of ſin and deme<g ref="char:EOLhyphen"/>rit:
+<pb n="55" facs="tcp:170405:32"/>the ſpoyler ſhall be ſpoiled, and he that breaks others, ſhall be broken himſelfe; <hi>He ſhall breake in pieces the Op<g ref="char:EOLhyphen"/>preſſour.</hi>
+               </p>
+               <p>
+                  <hi>Oppreſſour:</hi> It is of large ſignification, and various rendrings. The other Tranſlation gives it, <hi>the wrong-doer,</hi> a man of uneven, or oblique actings, guilty of deflections and ſwervings, that walks by no rule, obſerves no law in his dealings, but <hi>perfas &amp; ne<g ref="char:EOLhyphen"/>fas,</hi> right or wrong, he will have it; This the <hi>Oppreſſour,</hi> or <hi>wrong-doer.</hi>
+               </p>
+               <p>I finde three expreſſions that have obtained moſt, and are of beſt credit; a word, and but a word of each.</p>
+               <p>
+                  <hi>Calumniatorem,</hi> that's firſt. St. <hi>Hierom</hi> ſo renders it, the ſlanderer, the falſe accuſer, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in St. <hi>Chryſoſtoms</hi> lan<g ref="char:EOLhyphen"/>guage, the Devil himſelf,
+<note place="margin">Revel. 12.10.</note> 
+                  <hi>Satan the accu<g ref="char:EOLhyphen"/>ſer of our brethren,</hi> whom Chriſt overca<g ref="char:cmbAbbrStroke">̄</g>e by his paſſion, breaking the head of that <hi>Leviathan</hi> in pieces. But there is another Devil beſides him, a Devil in<g ref="char:EOLhyphen"/>carnate, that can act that part to the life <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.
+<note place="margin">
+                     <hi>Lovin. in loc.</hi> p. 325. l. G.</note> 
+                  <hi>Apollinarius</hi> calls him the falſe accuſing man, and is excel<g ref="char:EOLhyphen"/>lently conſtrued by ſome, the fraudu<g ref="char:EOLhyphen"/>lent oppreſſour, one that by undue,
+<pb n="56" facs="tcp:170405:33"/>and untrue practices, ſtrikes, wounds, kills the fame of another, to give life to his owne. One that cunningly lays another's honour in the duſt to erect and ſet up his own; for inſtance, what a male-Adminiſtrator of juſtice was <hi>David?</hi> how unfit to rule? and what an excellent and well accompliſhed King would <hi>Abſalom</hi> have made,
+<note place="margin">2 Sam. 15.3.</note> if you'l believe him? <hi>See thy matters are good and right, but there is no man depu<g ref="char:EOLhyphen"/>ted of the King to heare thee! Oh that I were made Judge in the Land, that every man which hath any ſuite or cauſe might come to me, and I would do him juſtice!</hi> It is no pleaſure to look back, or elſe you might ſee how this deſigne was driven on by our late Oppreſſours. Their calumnies, their falſe and fuca<g ref="char:EOLhyphen"/>ted accuſations were very thriving, and they contrived it as their beſt and moſt taking expedient, by traducing his late Majeſties government, to in<g ref="char:EOLhyphen"/>troduce and ſet up their own. <hi>Remem<g ref="char:EOLhyphen"/>ber Lord the reproach of thy ſervant, wherewith thine enemies have reproached, O Lord; wherewith they have reproached the foot-ſteps of thine Annointed.</hi> The Calumniator, or falſe Accuſer, the
+<pb n="57" facs="tcp:170405:33"/>fraudulent Oppreſſour, that's firſt.</p>
+               <p>The Greek verſion gives us the ſe<g ref="char:EOLhyphen"/>cond, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:
+<note place="margin">Apud A<g ref="char:EOLhyphen"/>thenienſes Lege cautiu<g ref="char:cmbAbbrStroke">̄</g> erat, ne quis ficus expor<g ref="char:EOLhyphen"/>taret: unde quidam de<g ref="char:EOLhyphen"/>ferendo &amp; accuſando victum quaerentes, ſycophanta<g ref="char:EOLhyphen"/>rum nomina ſortiti ſunt.</note> which in the ſtrict and genuine ſenſe imports <hi>Calumnioſu<g ref="char:cmbAbbrStroke">̄</g> delatorem,</hi> a clawing, daubing accu<g ref="char:EOLhyphen"/>ſer; a pick-thank, a pick-pocket In<g ref="char:EOLhyphen"/>former and Proſecutor, that frames and follows miſchiefs by a Law: in the larger, and looſer ſenſe, it denotes a <hi>Deceiver,</hi> a juggling, diſſembling <hi>Op<g ref="char:EOLhyphen"/>preſſour:</hi> one that cryes up publique, while he carries on private intereſts, and advantages: one that is Maſter of his trade, can <hi>pray and oppreſſe,</hi>
+                  <note place="margin">Mat. 23 14.</note> (a trick of the <hi>Phariſees</hi>) cry and kill, ſhed tears and blood, carry Heaven in his looks, and Hell in his thoughts, lar<g ref="char:EOLhyphen"/>vate himſelfe and put on a face of holi<g ref="char:EOLhyphen"/>neſſe, and juſtice upon the fouleſt, and moſt abhominable practices that ever the Sun ſaw.</p>
+               <p>Such was the contrivance of <hi>Jezebel,</hi> (who had ſkill in other paintings, be<g ref="char:EOLhyphen"/>ſides that of her face) <hi>Naboth</hi>'s Inherit<g ref="char:EOLhyphen"/>ance will fit <hi>Ahab,</hi> but how muſt he come by it? not take it away by arbi<g ref="char:EOLhyphen"/>trary power, and force; that would be too groſs and palpable an oppreſſion, a Tyranny, every one will ſee it, and
+<pb n="58" facs="tcp:170405:34"/>cry out of it. No: but let us have a Faſt, and let's have a High Court of Juſtice;
+<note place="margin">1 K. 21.9.</note> 
+                  <hi>Proclaim a Faſt, and ſet Naboth on high,</hi> and then take away his life, and eſtate and all, and who dare ſay he is an <hi>Oppreſſour</hi> that did it?</p>
+               <q>
+                  <l>—Nihil eſt audacius illis (ſumunt
+<note place="margin">
+                        <hi>Juven. Satyr.</hi> 6.</note>
+                  </l>
+                  <l>Deprenſis, iram, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> animos a crimine</l>
+               </q>
+               <p>Such a ſort of cunning, and cleanly <hi>Oppreſſours</hi> we meet with in the Pſalmiſt:
+<note place="margin">Pſal. 58.2.</note> 
+                  <hi>You weigh the violence of your hands in the earth.</hi> St. <hi>Hierome</hi> reads it, <hi>Injuſtitias manus veſtrae concinnant;</hi> you trim up oppreſſion, and dreſſe vio<g ref="char:EOLhyphen"/>lence in the cloths of juſtice. You have the very knack of Injuſtice, and can do wrong as handſomely as if it were the greateſt right. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; So the Seventy interpret it, you twine and twiſt up your iniquity with ſuch ſhews and pretences of juſtice and pie<g ref="char:EOLhyphen"/>ty, that though <hi>you draw iniquity with cords of vanity,</hi> yet you ſeem to ſpin a fine threed. Or, which our Tranſlation follows: <hi>Iniquitates manus veſtrae appen<g ref="char:EOLhyphen"/>dunt;</hi> your hands weigh violence, or you weigh the violence of your hands. To weigh violence is <hi>velle videri agere in pondere,</hi>
+                  <note place="margin">Lorinus.</note> 
+                  <hi>&amp; aequitate, id quod per vim
+<pb n="59" facs="tcp:170405:34"/>&amp; inique fit:</hi> to ſeem to do that juſtly, by weight, and meaſure, which is be<g ref="char:EOLhyphen"/>yond meaſure ſinful, unjuſt, and wick<g ref="char:EOLhyphen"/>ed. They are ſuch Artifts at Oppreſſi<g ref="char:EOLhyphen"/>on, that they will not allow an action, or let it paſſe, till it hath been in the ballance: as if they were afraid of the leaſt grain of injuſtice, when indeed whole pounds will not make ſo much as a ſcruple in ſuch mens conſciences; but enough of them. The ſycophant, the deceitfull, diſſembling <hi>Oppreſſour,</hi> He's the ſecond.</p>
+               <p>
+                  <hi>Violentum:</hi> Let us look at him as a third. The violent man, the impetu<g ref="char:EOLhyphen"/>ous and impudent <hi>Oppreſſour,</hi> that bluſheth at nothing,
+<note place="margin">Iſa. 48.4. Jer. 3.3.</note> 
+                  <hi>having a brow of braſſe, a whores forehead, refuſing to be aſhamed; ranting at Jehu's rate, and dri<g ref="char:EOLhyphen"/>ving furiouſly as the ſon of Nimſhi,</hi> char<g ref="char:EOLhyphen"/>ging deſperately through all Obligati<g ref="char:EOLhyphen"/>ons, honour, and honeſty, no law can ſtop him, no oaths can hold him. He ſets up, and pulls down, and <hi>Leviathan</hi> like is made without fear. A torrent of ſuch <hi>Oppreſſours</hi> not long ſince broke in upon this more then miſerable Church and Kingdome, over running all banks and bounds; whoſe language
+<pb n="60" facs="tcp:170405:35"/>was <hi>Overturne, overturne, overturne,</hi> and cared not to throw the foundations of the earth out of courſe, and unhinge the world.
+<note place="margin">Pſal. 83.2.</note> 
+                  <hi>For lo thine enemies, O God, made a tumult,</hi>
+                  <note place="margin">Verſ. 3.</note> 
+                  <hi>&amp; they that hated thee have lift up the head. They tooke crafty counſell againſt thy people, and conſulted againſt thy hidden ones.</hi>
+                  <note place="margin">Verſ. 4.</note> 
+                  <hi>They ſaid come let us cut them off from being a nation, that the name of Iſrael may be no more in remem<g ref="char:EOLhyphen"/>brance.</hi>
+                  <note place="margin">Verſe 12.</note> 
+                  <hi>Come let us take to our ſelves the houſes of God in poſſeſſion.</hi>
+                  <note place="margin">Lam. 4.20.</note> 
+                  <hi>The breath of our Noſtrils, the Annointed of the Lord was taken in their pits, of whom we ſaid under his ſhadow we ſhall live.</hi>
+                  <note place="margin">Gen. 49.5, 6.</note> 
+                  <hi>Inſtruments of cruelty are in their habitations. O my ſoule come not thou into their ſecret! and bleſſed be the living God,</hi>
+                  <note place="margin">V. 14. <hi>hujus</hi> Pſal.</note> 
+                  <hi>who hath redeemed our ſoul from their deceit and violence, and let our blood be precious in his ſight.</hi>
+                  <note place="margin">Pſal 9.6.</note> So that now I hope we may ſay, not inſulting<g ref="char:EOLhyphen"/>ly, but humbly, not upbraidingly, but thankfully, <hi>O thou enemy, deſtructions are come to a perpetual end.</hi>
+                  <note place="margin">Pſ 10.18.</note> 
+                  <hi>God hath judg<g ref="char:EOLhyphen"/>ed the fatherleſſe and the oppreſſed, that the man of the earth may no more oppreſs.</hi>
+               </p>
+               <p>The violent <hi>Oppreſſour,</hi> Hee's the third.</p>
+               <p>I ſhall not take upon me to give you
+<pb n="61" facs="tcp:170405:35"/>in a Catalogue of our late new deviſed <hi>Oppreſſours,</hi> the remembrance of them is grievous, as the burthen of them was intollerable. Beſides, it would o<g ref="char:EOLhyphen"/>ver-match both my time and under<g ref="char:EOLhyphen"/>taking, and I ſhould be at a loſſe for their names and number, they were ſo many, ſo monſtrous: it's well we may have leiſure to forget them, I wiſh we may do it heartily. Nor would I now have remembred them, had not my Text pointed at them, and led me to them. He that judgeth the poor, and ſaves the children of the needy, hath broken in pieces theſe <hi>Oppreſſours.</hi>
+               </p>
+               <p>But we have ſome <hi>Oppreſſours</hi> of the old ſtampe, I would we were as well eas'd of them too.</p>
+               <p>That we might have no racking, ſkrewing Landlords, that do not only fleece their Retainers, &amp; Underlings, and keep them bare: but go as near as thoſe <hi>Princes of the houſe of Iſrael,</hi>
+                  <note place="margin">Mic. 3.2.</note> 
+                  <hi>who plucke off their skin from off them, and their fleſh from off their bones,</hi> and are as attractive of their Tenants ſilver, as the <hi>Sferra Cavallo</hi> is of iron,
+<note place="margin">
+                     <hi>Br. Pſeud. l.</hi> 2. <hi>p.</hi> 100.</note> which (they ſay) will not let a horſe keep on his ſhooes by it.</p>
+               <pb n="62" facs="tcp:170405:36"/>
+               <p>That we might have no uſurious Exactors,
+<note place="margin">Pſal. 10.9.</note> 
+                  <hi>who lieth in wait to catch the poore, and raviſheth him when he draweth him into his net,</hi> his intangling net of Forfeitures, Mortgages, and Obliga<g ref="char:EOLhyphen"/>tions.</p>
+               <p>That we might have no quarrelling litigious Great ones, whoſe full g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls and purſes know no vent, but in Suits and Contentions. Such the Apoſtle complains of:
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Jam. 2.6.</note> 
+                  <hi>Do not rich men oppreſſe you, and draw you before the judgement-ſeats?</hi> and that onely, <hi>ob jejunam calum<g ref="char:EOLhyphen"/>niam,</hi> (as the Oratour terms it) upon a a nice, a needleſſe, a nothing Ca<g ref="char:EOLhyphen"/>vill.</p>
+               <p>That we might have no falſhood, nor treachery lurking under the long Robe in unconſcionable Chamber-practice:
+<note place="margin">Pliny, &amp; Aelian.</note> whileſt, like the <hi>Amphiſbaena,</hi> they move both wayes: take a reward againſt the Innocent, ſell the Truth, and drive on <hi>Judas</hi>'s bargain, <hi>quid dabi<g ref="char:EOLhyphen"/>tis?</hi>
+                  <note place="margin">Matth. 26.15.</note> 
+                  <hi>What will you give me and I will deli<g ref="char:EOLhyphen"/>ver him to you?</hi>
+               </p>
+               <p>That we might have no eluſions of right, no cheats put upon Juſtice at the Barre, by crying up <hi>Eſau's</hi> hands with <hi>Jacob's</hi> voyce, and decrying St.
+<pb n="63" facs="tcp:170405:36"/>
+                  <hi>Pauls</hi> cauſe with <hi>Tertullus</hi> his tongue: till <hi>Hypocrite</hi>-like, the cauſe is any thing but what it ſeemes, and ſeemes nothing of what it is. You that are in<g ref="char:EOLhyphen"/>truſted with <hi>judging the poor of the peo<g ref="char:EOLhyphen"/>ple,</hi> and <hi>ſaving the children of the needy,</hi> will, I hope, take care alſo to <hi>breake in pieces theſe Oppreſſors.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>I ſhall now but ſpeak the ſenſe, and deliver the Errand of the Text, to the Judge, the <hi>Oppreſſour,</hi> and <hi>the poor of the people,</hi> and I have done.</p>
+               <p>To the Judge firſt. My Lords, I do not, I dare not take upon me to in<g ref="char:EOLhyphen"/>ſtruct you, whoſe Commiſſioned me<g ref="char:EOLhyphen"/>rits, and well fam'd abilities ſet you above the reach of ſuch attempts: but remember you, I may, I muſt: My du<g ref="char:EOLhyphen"/>ty, my Text commands me to it.</p>
+               <p>The Text tells you, <hi>you could have no power at all unleſſe it were given you from above.</hi> There is another <hi>He,</hi> whoſe perſon, whoſe power, whoſe Tribu<g ref="char:EOLhyphen"/>nall, whoſe Attendants, are above, are beyond yours; who ſhall judge, and ſave, and break in pieces, when you have done. O do not ſave what <hi>He</hi> would have broken, nor break what he would ſave!
+<note place="margin">Jam. 5.9.</note> 
+                  <hi>He ſtandeth before the
+<pb n="64" facs="tcp:170405:37"/>door, Hee'l be here preſently, and he will judge all mans judgement over again.</hi>
+                  <note place="margin">
+                     <hi>Corn. a Lap. Com. in</hi> Eccl. c. 3</note> 
+                  <hi>Hoc enim eſt officium Elohim, ut juſtis Laeſis ſuum jus &amp; famam reſtituat.</hi> It will be the buſineſs of God in that great day, to ſcan the cauſes of the world, and rectifie all the errours of theſe lower judgements, and therefore it behoves you to judge exactly: if he eſpy the leaſt detaining of any truth in unrigh<g ref="char:EOLhyphen"/>teouſneſſe, the leaſt connivance at a<g ref="char:EOLhyphen"/>ny iniquity, the leaſt ſeducing by any paſſion or affection, the leaſt prevari<g ref="char:EOLhyphen"/>cation or obliquity, be ſure to heare on't.
+<note place="margin">Job 31.4.</note> 
+                  <hi>Doth not he ſee your wayes, and count all your ſteps?</hi> It concerns you then to tread even that have ſuch a looker on.
+<note place="margin">Act 24.25.</note> Judge <hi>Foelix</hi> trembled to heare of another judgement to come; thoughts of Gods judgement will no<g ref="char:EOLhyphen"/>tably influence upon yours. You had need be better then men (if poſſible) when you remember that God ſits a<g ref="char:EOLhyphen"/>mong you, eſpecially when you re<g ref="char:EOLhyphen"/>member that he ſhall ſit upon you: and that as ſure as you now judge, you ſhall be judged by him that ſhall <hi>judge the poor of the people, and ſave the children of the needy, and breake in pieces the Op<g ref="char:EOLhyphen"/>preſſour.</hi>
+               </p>
+               <pb n="65" facs="tcp:170405:37"/>
+               <p n="2">2. To the <hi>Opreſſour,</hi> I ſhall apply my ſelfe in that of the Pſalmiſt,
+<note place="margin">Pſ. 75.4.</note> 
+                  <hi>Dixi ini<g ref="char:EOLhyphen"/>quis: I ſaid to the fooles deale not ſo madly, and to the wicked lift not up the horne.</hi> Proud duſt! whether wilt thou be blown and ſcattered, when the great Judge ſhall come riding upon the wings of the winde? Poore ſtubble! where wilt thou ſtand before a conſu<g ref="char:EOLhyphen"/>ming fire? Thou that tread'ſt upon the necks of the needy with the feet of pride and cruelty, and beareſt thy ſelf up by thy outward advantages, as if (with thoſe in <hi>Obadiah</hi>) <hi>thou wouldſt neſt thy ſelfe among the ſtars,</hi>
+                  <note place="margin">Obad. 4.</note> 
+                  <hi>and ſayeſt in thine heart,</hi>
+                  <note place="margin">Verſ. 3.</note> 
+                  <hi>who ſhall bring me down to the ground?</hi> Here's a <hi>Hee</hi> in the Text, who hath <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">St. <hi>Chryſo<g ref="char:EOLhyphen"/>ſtome.</hi>
+                  </note> a moſt dreadful Tribu<g ref="char:EOLhyphen"/>nal, before which thy pride ſhal ſhrink up, thy high looks be level'd, and thy thoughts laid low:
+<note place="margin">Iſa. 2.20, 21.</note> 
+                  <hi>In that day thou ſhalt caſt away thy idolized ſilver and gold to the Moles, and to the Bats; to goe into the holes of the rocks, &amp; into the caves of the earth; to go into the clifts of the rocks, &amp; into the tops of theragged rocks, for fear of the Lord and for the glory of his Majeſtie: when he a<g ref="char:EOLhyphen"/>riſeth to ſhake terribly the earth.</hi>
+                  <note place="margin">Heb. 12.26</note> 
+                  <hi>Yet once more he ſhakes not the earth onely, but alſo
+<pb n="66" facs="tcp:170405:38"/>heaven.</hi>
+                  <note place="margin">Matth. 24.29.</note> 
+                  <hi>The day is coming when all the powers of heaven ſhall be ſhaken, the Sun become blacke,</hi>
+                  <note place="margin">Rev. 6.12, 13. 2 Pet. 3.10.</note> 
+                  <hi>and the Moon as blood, the Stars fall, and all the lights of heaven be put out at once: the Elements melt with fervent heat,</hi>
+                  <note place="margin">Mat. 24 30 Rev. 1.7.</note> 
+                  <hi>the ſea roar, and the Tribes of the earth mourn; and then ſhall appeare the ſigne of the ſon of man; Every eye ſhall ſee him,</hi> and thine alſo which pierced him in the poor members of his myſti<g ref="char:EOLhyphen"/>call body;
+<note place="margin">2 Sam. 13.13.</note> 
+                  <hi>and thou, whether ſhalt thou cauſe thy ſhame to goe?</hi> thou wilt then be glad of a Covert that would cut thee in pieces, that thou mighteſt run into ruine,
+<note place="margin">Rev. 9.6.</note> 
+                  <hi>ſeeking death and ſhall not finde it, deſiring to dye, and death flying from thee,</hi>
+                  <note place="margin">Ch. 6.16.</note> 
+                  <hi>ſaying to the mountaines, and rockes, Fall on us and hide us from the face of him that ſitteth on the throne, and from the wrath of the Lamb.</hi>
+                  <note place="margin">Dan. 4.27.</note> 
+                  <hi>Wherefore let my counſell be accepted? Breake off thy ſins by righteouſneſſe, and thine iniquities by ſhewing mercy to the poore:</hi>
+                  <note place="margin">Pſ. 50.12.</note> 
+                  <hi>if it may be a lengthening of thy tranquility. Now conſi<g ref="char:EOLhyphen"/>der this you that forget God, leſt he tear you in pieces, and there be none to deliver<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> For <hi>he ſhall judge the poore of the people, he ſhall ſave the children of the needy, and ſhall breake in pieces the Oppreſſour.</hi>
+               </p>
+               <pb n="67" facs="tcp:170405:38"/>
+               <p n="3">3. To the <hi>poor of the people, and chil<g ref="char:EOLhyphen"/>dren of the needy,</hi> the Text ſayes ſo much, I need ſay but little, very lit<g ref="char:EOLhyphen"/>tle, this.</p>
+               <p>
+                  <hi>Haile you that are highly favoured,</hi>
+                  <note place="margin">Luk. 1.28.</note> 
+                  <hi>the Lord is with you, bleſſed are you among men.</hi> You are the very darlings, and delight of providence: You are God's care, and he ha's given you in charge to the Judge: here is both <hi>Jus Poli,</hi> and <hi>Jus Fori</hi> for you, ſo that if either Hea<g ref="char:EOLhyphen"/>ven, or Earth can do you right, you ſhall have it.</p>
+               <p>You have been oppreſſed it may be, and ſhed teares, and found no Com<g ref="char:EOLhyphen"/>forter:
+<note place="margin">Eccl. 4.1.</note> 
+                  <hi>And on the ſide of your Oppreſſours there was power, but you had no Comfort<g ref="char:EOLhyphen"/>er;</hi> The Text will ſhew you one,
+<note place="margin">Rev. 21.4.</note> 
+                  <hi>Who ſhall judge and ſave you, and wipe away all teares from your eyes, and ſet you above death, and ſorrow, and crying, and paine.</hi>
+               </p>
+               <p>You have had your Names clouded, and over-caſt with Obloquies, diſgra<g ref="char:EOLhyphen"/>ces, reproaches;
+<note place="margin">Pſal. 36.5.</note> He will clear them up for you: <hi>Commit thy way unto the Lord, truſt alſo in him, and he ſhall bring it to paſſe.</hi>
+                  <note place="margin">Verſ. 6.</note> 
+                  <hi>He ſhall bring forth thy righteouſneſs as the light, and thy judgement as the noon<g ref="char:EOLhyphen"/>day. Reſt in the Lord,</hi>
+                  <note place="margin">Verſ 7.</note> 
+                  <hi>and wait patiently
+<pb n="68" facs="tcp:170405:39"/>for him:</hi>
+                  <note place="margin">Mat. 13.43</note> 
+                  <hi>You ſhall ſhine forth as the Sun, in the kingdome of your Father.</hi>
+               </p>
+               <p>
+                  <hi>You have been deſpiſed,</hi>
+                  <note place="margin">Iſa. 53.3.</note> 
+                  <hi>and rejected of men, they hid their faces from you, and e<g ref="char:EOLhyphen"/>ſteemed you not;</hi>
+                  <note place="margin">Mal. 3.17.</note> 
+                  <hi>you ſhall be mine, ſaith the Lord of Hoſts, in that day when I make up my Jewels.</hi>
+               </p>
+               <p>You have loſt all for keeping the Commandements of God, and the te<g ref="char:EOLhyphen"/>ſtimony of Jeſus Chriſt:
+<note place="margin">Lu. 12.33.</note> 
+                  <hi>You ſhall have bags which wax not old, treaſure in the heavens which faileth not,</hi>
+                  <note place="margin">Mat. 6.20.</note> 
+                  <hi>where neither moth, nor ruſt can corrupt, and where theeves cannot breake through and ſteale: a better and more enduring ſubſtance:</hi>
+                  <note place="margin">Heb. 10.34. Pſa. 58.11.</note> So that you ſhall ſay, <hi>Verily there is a re<g ref="char:EOLhyphen"/>ward for the righteous, verily he is a God that judgeth in the earth.</hi>
+               </p>
+               <p>You can get no reparation for ſuffe<g ref="char:EOLhyphen"/>rings, no redreſs of grievances, but after abundance of waiting;
+<note place="margin">Prov. 13.12. Jer. 8.15.</note> 
+                  <hi>Your hope is deferred, and your heart is ſicke: You looked for peace, but no good came, and for a time of health,</hi>
+                  <note place="margin">Lu. 21.19. Jam. 5.8.</note> 
+                  <hi>and behold trouble. O but in patience poſſeſſe ye your ſoules: Stabliſh your hearts, for the coming of the Lord draweth nigh:</hi>
+                  <note place="margin">Rev 3.11. Pſ. 125 3.</note> 
+                  <hi>Hold that faſt which thou haſt, that no man take thy Crown: The Rod of the wicked ſhall not reſt upon the lot
+<pb n="69" facs="tcp:170405:39"/>of the righteous: The needy ſhall not alway be forgotten, the expectation of the poore ſhall not periſh for ever.</hi> That longing expectation of the ſoules under the Altar, <hi>
+                     <g ref="char:V">Ʋ</g>ſque quò Domine, How long,</hi>
+                  <note place="margin">Rev. 6.10.</note> 
+                  <hi>O Lord, holy, and true?</hi> is anſwered with an <hi>Adhuc modicûm, aliquantulúm<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi>
+                  <note place="margin">Heb. 10.37.</note> 
+                  <hi>Yet a little while, and he that ſhall come will come and will not tarry. For he cometh,</hi>
+                  <note place="margin">Pſ. 96.13.</note> 
+                  <hi>for he cometh to judge the earth, he ſhall judge the world with righteouſneſſe, and the people with his truth.</hi>
+                  <note place="margin">Rev. 22.12</note> 
+                  <hi>Behold he com<g ref="char:EOLhyphen"/>eth quickly, and his reward is with him, to give every man according as his worke ſhall be.</hi>
+               </p>
+               <p>
+                  <hi>For He ſhall judge the poor of the people, He ſhal ſave the children of the needy, and ſhall breake in pieces the Oppreſſour.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>Now the great God of heaven and earth, the maker of all things, the Judge of all men,
+<note place="margin">2 Tim. 4.1<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> who ſhall judge the quicke and the dead at his appearing and his kingdome, give you ſuch a ſpirit of judgement, wiſdome, coun<g ref="char:EOLhyphen"/>ſell, courage, and the fear of the Lord, that you which now judge men, may one day judge Angels, and ſit in glo<g ref="char:EOLhyphen"/>ry before the face of the world, Angels
+<pb n="70" facs="tcp:170405:40"/>and men! and grant to us all ſuch a ſpirit of meekneſſe, moderation, holi<g ref="char:EOLhyphen"/>neſſe, humility, and obedience: that we may ſo live as thoſe that muſt dye, and after death, come to judgement: and then be able to ſtand in great boldneſſe, being made ſafe from all oppreſſion, fraud, and violence, ſecu<g ref="char:EOLhyphen"/>red within the embraces of the everla<g ref="char:EOLhyphen"/>ſting armes, and called into a better Kingdome with that gracious invitati<g ref="char:EOLhyphen"/>on, <hi>Come ye bleſſed of my Father, receive the Kingdome prepared for you before the foundation of the world was laid.</hi> And all this, <hi>He</hi> gives us, who hath ſo dearly purchaſed it for us, Jeſus Chriſt the Righteous! To whom with the Father and the Eternall Spirit, be rendred of us, and of all creatures both in Hea<g ref="char:EOLhyphen"/>ven and Earth, all honour, glory, a<g ref="char:EOLhyphen"/>doration, and praiſe throughout all a<g ref="char:EOLhyphen"/>ges.</p>
+               <closer>Amen. Hallelujah.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
